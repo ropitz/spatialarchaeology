@@ -1,6 +1,6 @@
-name: environment
 channels:
   - conda-forge
+  - defaults
 dependencies:
   - python
   - numpy
@@ -17,5 +17,6 @@ dependencies:
   - fiona
   - pyproj
   - six
+  - pysal
   - geopandas
   - requests
