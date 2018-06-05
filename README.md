@@ -1,2 +1,5 @@
 # spatialarchaeology
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ropitz/spatialarchaeology/master?urlpath=https%3A%2F%2Fgithub.com%2Fropitz%2Fspatialarchaeology%2Fblob%2Fmaster%2F1_spatialarchaeology.ipynb)
+
+# Lesson 1: Asking questions and making maps
+# Click 'launch binder' and then click the '1_spatialarchaeology.ipynb' link to get started
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ropitz/spatialarchaeology/master)
