@@ -10,7 +10,6 @@ dependencies:
   - dill
   - pandas
   - partd
-  - bokeh
   - dask
   - cython
   - shapely
@@ -20,5 +19,6 @@ dependencies:
   - pysal
   - geopandas
   - requests
-  - ipywidgets
-  - bokeh
+  - branca
+  - jinja2
+  - folium
