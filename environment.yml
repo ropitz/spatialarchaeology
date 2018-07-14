@@ -23,4 +23,4 @@ dependencies:
   - jinja2
   - folium
   - seaborn
-  - sklearn
+  - scikit-learn
