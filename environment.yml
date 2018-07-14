@@ -22,3 +22,5 @@ dependencies:
   - branca
   - jinja2
   - folium
+  - seaborn
+  - sklearn
