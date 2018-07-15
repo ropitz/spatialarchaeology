@@ -7,10 +7,8 @@ dependencies:
   - psutil
   - toolz
   - matplotlib
-  - dill
   - pandas
   - partd
-  - dask
   - cython
   - shapely
   - fiona
@@ -24,3 +22,8 @@ dependencies:
   - folium
   - seaborn
   - scikit-learn
+  - gdal
+  - rasterio
+  - pygeoprocessing
+  - cv2
+  - warnings
