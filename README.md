@@ -1,6 +1,11 @@
-# spatialarchaeology
+# Course exercises: University of Glasgow Spatial Archaeology modules
 
- * Access the Jupyter notebooks for different lessons in the binder
+This site provides access to a collection of modules for learning about how archaeologists work with spatial data and remote sensing data to interpret sites and landscapes. The modules are designed for use within University of Glasgow courses, but can be followed by anyone. 
+
+Here's how to get started:
+
+
+ * Access the notebooks for different lessons in the binder
  * Click 'launch binder' (go make a cup of tea and wait while the environment builds) and then click the notebook for your lesson to get started. 
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ropitz/spatialarchaeology/master)
