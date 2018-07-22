@@ -1,0 +1,1730 @@
+MATRIX_FROM_ID,MATRIX_TO_ID,TYPE,TO_SU DEFINITION,EXCAV_YEAR
+2009,2008,Cuts,Layer of rocks.,2009
+2009,2010,Cuts,A layer of rocks.,2009
+2009,2011,Cuts,Layer of brown silt.,2009
+2009,2035,Cuts,Layer of paving stones,2009
+2009,2038,Cuts,Layer of paving stones,2009
+2009,2048,Cuts,Wall of irregular stones,2009
+2009,2014,Cuts,Layer of silty clay.,2009
+2044,2023,Cuts,Layer of paving stones,2009
+2029,2026,Cuts,Opus signimun surface,2009
+2030,2027,Cuts,Rectangular cut into opus signinum surface,2009
+2030,2026,Cuts,Opus signimun surface,2009
+2028,2027,Cuts,Rectangular cut into opus signinum surface,2009
+2028,2026,Cuts,Opus signimun surface,2009
+2044,2046,Cuts,Layer of brown silty clay with flakes of tufo,2009
+2129,2050,Cuts,Wall of Irregular stones,2009
+2129,2064,Cuts,Wall of irregular stones.,2009
+0,2000,Covers,Layer of silty clay,2009
+2000,2003,Covers,Layer of rocks.,2009
+2000,2004,Covers,Layer of rocks and tile.,2009
+2000,2006,Covers,Layer of silty clay with flakes of basalt and tufo.,2009
+2000,2042,Covers,Layer of silty clay,2009
+2000,2012,Covers,Layer of rocks and tile.,2009
+2000,2016,Covers,Layer of tiles and rocks.,2009
+2000,2033,Covers,Wall of irregular blocks,2009
+2000,2007,Covers,Layer of silty clay.,2009
+0,2001,Covers,Layer of brown silty clay.,2009
+2001,2002,Covers,Layer of black silt.,2009
+2003,2023,Covers,Layer of paving stones,2009
+2004,2038,Covers,Layer of paving stones,2009
+2004,2066,Covers,Layer of brown silty clay.,2009
+2004,2041,Covers,Layer of tile and rock,2009
+0,2005,Covers,Layer of silty clay.,2009
+2005,2017,Covers,Layer of collapse of rocks and tile.,2009
+2005,2064,Covers,Wall of irregular stones.,2009
+2005,2050,Covers,Wall of Irregular stones,2009
+2005,2041,Covers,Layer of tile and rock,2009
+2010,2014,Covers,Layer of silty clay.,2009
+2006,2014,Covers,Layer of silty clay.,2009
+2005,2016,Covers,Layer of tiles and rocks.,2009
+2012,2019,Covers,Layer of brown silty clay,2009
+2019,2040,Covers,Layer of dark brown silt,2009
+2003,2020,Covers,Layer of stones,2009
+2020,2024,Covers,Layer of silt,2009
+2021,2022,Covers,Circular cut into bedrock,2009
+2024,2046,Covers,Layer of brown silty clay with flakes of tufo,2009
+2024,2045,Covers,Layer of brown silt with cluster of stones,2009
+2024,2060,Covers,Layer of brown silty clay,2009
+2038,2067,Covers,Rectangular stone drain.,2009
+2006,2069,Covers,Semicircular wall of irregular stones.,2009
+2008,2019,Covers,Layer of brown silty clay,2009
+2017,2055,Covers,Wall of irregular stones,2009
+2032,2063,Covers,Layer of silty clay with fragments of tufo.,2009
+2033,2063,Covers,Layer of silty clay with fragments of tufo.,2009
+2061,2062,Covers,Layer of clayish silt,2009
+2062,2032,Covers,Opus quadratum wall,2009
+2062,2033,Covers,Wall of irregular blocks,2009
+2058,2061,Covers,"Layer of silt, sand with some clay",2009
+2056,2058,Covers,Layer of clayish silt,2009
+2047,2056,Covers,Layer of tiles,2009
+0,2047,Covers,layer of light brown silty clay,2009
+2047,2034,Covers,"Wall of irregular blocks
+Not fully excavated. No data or spatial data recorded.",2009
+0,2011,Covers,Layer of brown silt.,2009
+2011,2015,Covers,Layer of yellow clay.,2009
+2011,2033,Covers,Wall of irregular blocks,2009
+2011,2034,Covers,"Wall of irregular blocks
+Not fully excavated. No data or spatial data recorded.",2009
+2015,2018,Covers,Layer of brown silt,2009
+2015,2032,Covers,Opus quadratum wall,2009
+2018,2031,Covers,Plaster covering on wall,2009
+2018,2026,Covers,Opus signimun surface,2009
+2031,2032,Covers,Opus quadratum wall,2009
+0,2032,Covers,Opus quadratum wall,2009
+2031,2033,Covers,Wall of irregular blocks,2009
+0,2033,Covers,Wall of irregular blocks,2009
+2031,2034,Covers,"Wall of irregular blocks
+Not fully excavated. No data or spatial data recorded.",2009
+0,2034,Covers,"Wall of irregular blocks
+Not fully excavated. No data or spatial data recorded.",2009
+2017,2054,Covers,Wall of irregular stones,2009
+2041,2057,Covers,Layer of tiles and rocks,2009
+2060,2065,Covers,Collapse of tufo drain.,2009
+2066,2067,Covers,Rectangular stone drain.,2009
+2072,2038,Covers,Layer of paving stones,2009
+2002,2043,Covers,Layer of brown silt,2009
+2043,2049,Covers,Wall of irregular stones,2009
+2043,2069,Covers,Semicircular wall of irregular stones.,2009
+2043,2033,Covers,Wall of irregular blocks,2009
+2074,2015,Covers,Layer of yellow clay.,2009
+2082,2023,Covers,Layer of paving stones,2009
+2095,2072,Covers,Regular basalt block.,2009
+2095,2070,Covers,Wall of irregular stones.,2009
+2000,2013,Covers,Layer of silty clay with rocks.,2009
+2137,2033,Covers,Wall of irregular blocks,2009
+3172,2026,Covers,Opus signimun surface,2009
+2004,2068,Abuts,Regular blocks of tufo.,2009
+2013,2024,Abuts,Layer of silt,2009
+2014,2043,Abuts,Layer of brown silt,2009
+2016,2050,Abuts,Wall of Irregular stones,2009
+2016,2035,Abuts,Layer of paving stones,2009
+2017,2038,Abuts,Layer of paving stones,2009
+2019,2038,Abuts,Layer of paving stones,2009
+2008,2021,Abuts,Circular tufo structure,2009
+2024,2023,Abuts,Layer of paving stones,2009
+2014,2035,Abuts,Layer of paving stones,2009
+2042,2049,Abuts,Wall of irregular stones,2009
+2006,2035,Abuts,Layer of paving stones,2009
+2033,2032,Abuts,Opus quadratum wall,2009
+2034,2032,Abuts,Opus quadratum wall,2009
+2032,2033,Abuts,Wall of irregular blocks,2009
+2057,2054,Abuts,Wall of irregular stones,2009
+2057,2055,Abuts,Wall of irregular stones,2009
+2065,2055,Abuts,Wall of irregular stones,2009
+2023,2055,Abuts,Wall of irregular stones,2009
+2068,2055,Abuts,Wall of irregular stones,2009
+2016,2064,Abuts,Wall of irregular stones.,2009
+2060,2067,Abuts,Rectangular stone drain.,2009
+2060,2068,Abuts,Regular blocks of tufo.,2009
+2024,2070,Abuts,Wall of irregular stones.,2009
+2024,2072,Abuts,Regular basalt block.,2009
+2003,2072,Abuts,Regular basalt block.,2009
+2008,2048,Abuts,Wall of irregular stones,2009
+2038,2048,Abuts,Wall of irregular stones,2009
+2046,2038,Abuts,Layer of paving stones,2009
+2074,2051,Abuts,Wall of irregular stones,2009
+2074,2052,Abuts,Wall of irregular stones,2009
+2074,2053,Abuts,Wall of irregular stones,2009
+2074,2071,Abuts,Wall of irregular stones.,2009
+2074,2054,Abuts,Wall of irregular stones,2009
+2074,2033,Abuts,Wall of irregular blocks,2009
+2074,2038,Abuts,Layer of paving stones,2009
+2074,2035,Abuts,Layer of paving stones,2009
+2094,2051,Abuts,Wall of irregular stones,2009
+2094,2052,Abuts,Wall of irregular stones,2009
+2094,2053,Abuts,Wall of irregular stones,2009
+2094,2071,Abuts,Wall of irregular stones.,2009
+2110,2048,Abuts,Wall of irregular stones,2009
+2110,2072,Abuts,Regular basalt block.,2009
+2120,2023,Abuts,Layer of paving stones,2009
+2120,2070,Abuts,Wall of irregular stones.,2009
+2171,2033,Abuts,Wall of irregular blocks,2009
+2174,2033,Abuts,Wall of irregular blocks,2009
+2175,2023,Abuts,Layer of paving stones,2009
+2178,2033,Abuts,Wall of irregular blocks,2009
+2184,2055,Abuts,Wall of irregular stones,2009
+2205,2033,Abuts,Wall of irregular blocks,2009
+2205,2055,Abuts,Wall of irregular stones,2009
+2208,2033,Abuts,Wall of irregular blocks,2009
+2214,2033,Abuts,Wall of irregular blocks,2009
+2104,2038,Abuts,Layer of paving stones,2009
+2104,2054,Abuts,Wall of irregular stones,2009
+2104,2055,Abuts,Wall of irregular stones,2009
+2105,2033,Abuts,Wall of irregular blocks,2009
+2105,2064,Abuts,Wall of irregular stones.,2009
+2105,2050,Abuts,Wall of Irregular stones,2009
+2118,2033,Abuts,Wall of irregular blocks,2009
+2119,2050,Abuts,Wall of Irregular stones,2009
+2121,2033,Abuts,Wall of irregular blocks,2009
+2121,2064,Abuts,Wall of irregular stones.,2009
+2121,2050,Abuts,Wall of Irregular stones,2009
+2125,2050,Abuts,Wall of Irregular stones,2009
+2140,2033,Abuts,Wall of irregular blocks,2009
+2142,2033,Abuts,Wall of irregular blocks,2009
+2147,2033,Abuts,Wall of irregular blocks,2009
+2007,2009,Fills,Rectangular cut filled by US 2007.,2009
+2013,2021,Fills,Circular tufo structure,2009
+2040,2039,Fills,Circular cut into yellow clay,2009
+2018,2027,Fills,Rectangular cut into opus signinum surface,2009
+2018,2018,Fills,Layer of brown silt,2009
+2018,2029,Fills,Circular cut in Opus signinum surface,2009
+2018,2030,Fills,Rectangular cut in Opus signinum surface,2009
+2060,2059,Fills,Cut into light brown silty clay,2009
+2018,2028,Fills,Circular cut in Opus Signinum surface,2009
+2045,2044,Fills,Rectangular cut into layer of silt,2009
+2054,2055,Is Bound To,Wall of irregular stones,2009
+2070,2072,Is Bound To,Regular basalt block.,2009
+2072,2048,Is Bound To,Wall of irregular stones,2009
+2179,2032,Is Bound To,Opus quadratum wall,2009
+2180,2033,Is Bound To,Wall of irregular blocks,2009
+2077,2069,Is Bound To,Semicircular wall of irregular stones.,2009
+2010,2008,Equals,Layer of rocks.,2009
+2008,2010,Equals,A layer of rocks.,2009
+2178,2026,Equals,Opus signimun surface,2009
+2210,2027,Equals,Rectangular cut into opus signinum surface,2009
+2076,2043,Equals,Layer of brown silt,2009
+3042,2026,Equals,Opus signimun surface,2009
+2115,2075,Cuts,Layer of stones in the NE corner of the area.,2010
+2115,2082,Cuts,Layer of stones in NE part of area.,2010
+2115,2093,Cuts,Glariate road surface in NE part of area.,2010
+2115,2080,Cuts,Wall of irregular stones with N-S orientation near the East limit of the area.,2010
+2138,2136,Cuts,layer of brown silty clay covered by glariate 2131,2010
+2138,2139,Cuts,layer of brown silt in NE part of area,2010
+2172,2099,Cuts,glariate road surface in NW part of the area,2010
+2210,2178,Cuts,opus signinum floor in south-central part of area,2010
+2188,2205,Cuts,"layer of brown silty sand between 2033, 2055, 2054, and 2033",2010
+2206,2201,Cuts,opus signinum surface south of 2203,2010
+2206,2202,Cuts,opus signinum surface south of 2201,2010
+2206,2213,Cuts,opus signinum surface (W of SU 2202),2010
+2206,2214,Cuts,opus signinum surface (S of SU 2180),2010
+2112,2104,Cuts,Layer of basalt and tufo fragments,2010
+2112,2105,Cuts,layer of basalt and tufo fragments,2010
+2112,2116,Cuts,layer of tufo running east-west in south part of area,2010
+2112,2117,Cuts,layer of tufo running east-west in south part of area,2010
+2124,2147,Cuts,layer of yellow silt below SU 2130,2010
+2129,2132,Cuts,layer of reddish-brown silt with charcoal inclusions,2010
+2129,2135,Cuts,rectangular feature of worked tufo slabs,2010
+2129,2134,Cuts,circular feature of tufo blocks,2010
+2124,2135,Cuts,rectangular feature of worked tufo slabs,2010
+2129,2141,Cuts,layer of charcoal in central part of area,2010
+2144,2147,Cuts,layer of yellow silt below SU 2130,2010
+2146,2147,Cuts,layer of yellow silt below SU 2130,2010
+2156,2147,Cuts,layer of yellow silt below SU 2130,2010
+2129,2147,Cuts,layer of yellow silt below SU 2130,2010
+2155,2147,Cuts,layer of yellow silt below SU 2130,2010
+2247,2213,Cuts,opus signinum surface (W of SU 2202),2010
+2304,2202,Cuts,opus signinum surface south of 2201,2010
+0,2073,Covers,Layer of silty clay in the NE corner of area.,2010
+2073,2075,Covers,Layer of stones in the NE corner of the area.,2010
+2073,2082,Covers,Layer of stones in NE part of area.,2010
+2043,2083,Covers,Layer of brown silty clay.,2010
+2043,2085,Covers,Layer of brown silty clay.,2010
+2085,2087,Covers,Tufo lid.,2010
+2087,2089,Covers,Tufo sarcophagus.,2010
+2089,2090,Covers,Layer of silt and tufo rubble under the tufo sarcophagus.,2010
+2085,2091,Covers,Skeleton deposited and covered by 2085.,2010
+2005,2074,Covers,"Layer of light brown silt between SU 2038, SU 2035, SU 2053, SU 2052, SU 2054, and SU 2033.",2010
+2074,2104,Covers,Layer of basalt and tufo fragments,2010
+2074,2096,Covers,Layer of light brown silt in a circular feature covered by 2074.,2010
+2075,2092,Covers,Layer of light brown silt in NE part of area.,2010
+2082,2092,Covers,Layer of light brown silt in NE part of area.,2010
+2092,2093,Covers,Glariate road surface in NE part of area.,2010
+2000,2094,Covers,Layer of yellowish-brown silt in the Central part of the area.,2010
+2094,2104,Covers,Layer of basalt and tufo fragments,2010
+2000,2095,Covers,Layer of brown silty clay in the N-NE part of area.,2010
+2095,2081,Covers,Wall of irregular stones with N-S orientation in the NE part of area.,2010
+2095,2109,Covers,layer of stones in the NE part of area,2010
+2095,2110,Covers,layer of brownish-yellow silty clay in central-east part of area,2010
+2095,2098,Covers,Concentration of tufo and basalt fragments between SU 2071 and SU 2052.,2010
+2096,2111,Covers,layer of light yellow-brown silt in central part of area,2010
+2065,2102,Covers,Layer of brown silty soil that fills cut SU 2101.,2010
+2102,2106,Covers,layer of collapsed stones and drain in cut 2101,2010
+2106,2107,Covers,"layer of brown silty sand beneath collapsed drain SU 2106, in cut SU 2101 and in the central/east part of the area",2010
+2102,2107,Covers,"layer of brown silty sand beneath collapsed drain SU 2106, in cut SU 2101 and in the central/east part of the area",2010
+2005,2108,Covers,circular feature of tufo and basalt fragments,2010
+2108,2105,Covers,layer of basalt and tufo fragments,2010
+2093,2131,Covers,glariate road surface beneath later glariate road SU 2093,2010
+2110,2139,Covers,layer of brown silt in NE part of area,2010
+2073,2114,Covers,tract of wall with clay and small stones in NE part of area,2010
+2114,2131,Covers,glariate road surface beneath later glariate road SU 2093,2010
+2095,2120,Covers,layer of brown silt clay in east-central part of area,2010
+2120,2122,Covers,layer of brown silty clay covered by SU 2120,2010
+2023,2122,Covers,layer of brown silty clay covered by SU 2120,2010
+2070,2122,Covers,layer of brown silty clay covered by SU 2120,2010
+2081,2122,Covers,layer of brown silty clay covered by SU 2120,2010
+2175,2122,Covers,layer of brown silty clay covered by SU 2120,2010
+2122,2126,Covers,layer of brown silty clay covered by 2122,2010
+2023,2126,Covers,layer of brown silty clay covered by 2122,2010
+2070,2126,Covers,layer of brown silty clay covered by 2122,2010
+2081,2126,Covers,layer of brown silty clay covered by 2122,2010
+2175,2126,Covers,layer of brown silty clay covered by 2122,2010
+2131,2136,Covers,layer of brown silty clay covered by glariate 2131,2010
+2131,2139,Covers,layer of brown silt in NE part of area,2010
+2080,2136,Covers,layer of brown silty clay covered by glariate 2131,2010
+2095,2139,Covers,layer of brown silt in NE part of area,2010
+2109,2139,Covers,layer of brown silt in NE part of area,2010
+2095,2149,Covers,fill of cut 2148,2010
+2095,2151,Covers,fill of cut 2150,2010
+2095,2153,Covers,fill of cut 2152,2010
+2095,2158,Covers,fill of cut 2157,2010
+2095,2160,Covers,fill of cut 2159,2010
+2095,2162,Covers,fill of cut 2161,2010
+2095,2164,Covers,fill of cut 2163,2010
+2095,2166,Covers,fill of cut 2165,2010
+2095,2168,Covers,fill of cut 2167,2010
+2095,2170,Covers,fill of cut 2169,2010
+2097,2105,Covers,layer of basalt and tufo fragments,2010
+2137,2171,Covers,layer of yellow silt in south-central part of area,2010
+2171,2174,Covers,layer of reddish-brown silt in rectangular structure,2010
+2076,2173,Covers,fill of cut 2172,2010
+2174,2178,Covers,opus signinum floor in south-central part of area,2010
+2082,2175,Covers,layer of basalt paving stones,2010
+2082,2176,Covers,layer of yellow silty clay,2010
+2137,2177,Covers,layer of brown silt in south-central part of area,2010
+2177,2201,Covers,opus signinum surface south of 2203,2010
+2177,2202,Covers,opus signinum surface south of 2201,2010
+2177,2208,Covers,layer of collapse in south-central part of area,2010
+2177,2214,Covers,opus signinum surface (S of SU 2180),2010
+2177,2207,Covers,layer of brown silt (fills SU 2006),2010
+2137,2179,Covers,wall of worked and irregular blocks with N-S orientation,2010
+2137,2180,Covers,l-shaped tract of wall in south-central part of area,2010
+2076,2181,Covers,glareate road surface in western part of area,2010
+2100,2181,Covers,glareate road surface in western part of area,2010
+2181,2189,Covers,layer of charcoal and blackened silt,2010
+2147,2184,Covers,charcoal fill of cut SU 2188,2010
+2147,2185,Covers,layer of yellow-brown silt in central part of area beneath 2147,2010
+2185,2192,Covers,compact layer of silt beneath 2147 in central part of area,2010
+2185,2205,Covers,"layer of brown silty sand between 2033, 2055, 2054, and 2033",2010
+2137,2186,Covers,linear feature of opus signinum,2010
+2186,2202,Covers,opus signinum surface south of 2201,2010
+2187,2202,Covers,opus signinum surface south of 2201,2010
+2147,2190,Covers,layer of yellow sandy silt beneath 2147,2010
+2190,2192,Covers,compact layer of silt beneath 2147 in central part of area,2010
+2147,2192,Covers,compact layer of silt beneath 2147 in central part of area,2010
+2192,2205,Covers,"layer of brown silty sand between 2033, 2055, 2054, and 2033",2010
+2147,2203,Covers,wall of tufo blocks with E-W orientation in central part of area,2010
+2147,2205,Covers,"layer of brown silty sand between 2033, 2055, 2054, and 2033",2010
+2135,2205,Covers,"layer of brown silty sand between 2033, 2055, 2054, and 2033",2010
+2215,2205,Covers,"layer of brown silty sand between 2033, 2055, 2054, and 2033",2010
+2188,2205,Covers,"layer of brown silty sand between 2033, 2055, 2054, and 2033",2010
+2177,2213,Covers,opus signinum surface (W of SU 2202),2010
+2208,2214,Covers,opus signinum surface (S of SU 2180),2010
+2147,2215,Covers,rubble with E-W orientation in central part of area,2010
+2001,2076,Covers,Layer of brown silt in the NW part of the area.,2010
+2076,2077,Covers,Semicircular tract of wall in the 2010 extension of area C.,2010
+2076,2078,Covers,Wall of irregular stones with N-S orientation.,2010
+2076,2079,Covers,Circular feature of irregular stones within a semicircular tract of wall in NW part of area. ,2010
+2076,2100,Covers,Rubble road preparation in the NW part of the area.,2010
+2043,2077,Covers,Semicircular tract of wall in the 2010 extension of area C.,2010
+2081,2139,Covers,layer of brown silt in NE part of area,2010
+2081,2131,Covers,glariate road surface beneath later glariate road SU 2093,2010
+2080,2131,Covers,glariate road surface beneath later glariate road SU 2093,2010
+2078,2191,Covers,narrow channel cut into bedrock,2010
+2078,2181,Covers,glareate road surface in western part of area,2010
+2043,2079,Covers,Circular feature of irregular stones within a semicircular tract of wall in NW part of area. ,2010
+2098,2104,Covers,Layer of basalt and tufo fragments,2010
+2100,2099,Covers,glariate road surface in NW part of the area,2010
+2094,2103,Covers,Layer of brown silty soil within a circular feature. ,2010
+2103,2130,Covers,layer of light yellow/brown silt in central part of area covered by SU 2104 and SU 2105,2010
+2052,2104,Covers,Layer of basalt and tufo fragments,2010
+2053,2104,Covers,Layer of basalt and tufo fragments,2010
+2104,2111,Covers,layer of light yellow-brown silt in central part of area,2010
+2104,2116,Covers,layer of tufo running east-west in south part of area,2010
+2104,2130,Covers,layer of light yellow/brown silt in central part of area covered by SU 2104 and SU 2105,2010
+2074,2105,Covers,layer of basalt and tufo fragments,2010
+2094,2105,Covers,layer of basalt and tufo fragments,2010
+2071,2105,Covers,layer of basalt and tufo fragments,2010
+2051,2105,Covers,layer of basalt and tufo fragments,2010
+2105,2135,Covers,rectangular feature of worked tufo slabs,2010
+2105,2127,Covers,alignment of irregular stones with N-S orientation,2010
+2105,2117,Covers,layer of tufo running east-west in south part of area,2010
+2105,2130,Covers,layer of light yellow/brown silt in central part of area covered by SU 2104 and SU 2105,2010
+2105,2125,Covers,layer of reddish silt,2010
+2038,2111,Covers,layer of light yellow-brown silt in central part of area,2010
+2127,2111,Covers,layer of light yellow-brown silt in central part of area,2010
+2054,2111,Covers,layer of light yellow-brown silt in central part of area,2010
+2111,2147,Covers,layer of yellow silt below SU 2130,2010
+2051,2113,Covers,layer of yellowish brown silt,2010
+2074,2113,Covers,layer of yellowish brown silt,2010
+2094,2113,Covers,layer of yellowish brown silt,2010
+2094,2116,Covers,layer of tufo running east-west in south part of area,2010
+2116,2130,Covers,layer of light yellow/brown silt in central part of area covered by SU 2104 and SU 2105,2010
+2094,2117,Covers,layer of tufo running east-west in south part of area,2010
+2117,2130,Covers,layer of light yellow/brown silt in central part of area covered by SU 2104 and SU 2105,2010
+2074,2118,Covers,alignment of irregular blocks with E-W orientation,2010
+2118,2121,Covers,layer of reddish/brown silt with charcoal inclusions,2010
+2118,2135,Covers,rectangular feature of worked tufo slabs,2010
+2074,2119,Covers,alignment of irregular blocks,2010
+2119,2124,Covers,spoliation cut of tufo slab,2010
+2105,2121,Covers,layer of reddish/brown silt with charcoal inclusions,2010
+2074,2121,Covers,layer of reddish/brown silt with charcoal inclusions,2010
+2119,2121,Covers,layer of reddish/brown silt with charcoal inclusions,2010
+2121,2135,Covers,rectangular feature of worked tufo slabs,2010
+2121,2128,Covers,silt and rubble fill of spoliation cut,2010
+2121,2132,Covers,layer of reddish-brown silt with charcoal inclusions,2010
+2105,2123,Covers,rubble fill of spoliation cut,2010
+2125,2130,Covers,layer of light yellow/brown silt in central part of area covered by SU 2104 and SU 2105,2010
+2125,2135,Covers,rectangular feature of worked tufo slabs,2010
+2074,2127,Covers,alignment of irregular stones with N-S orientation,2010
+2127,2130,Covers,layer of light yellow/brown silt in central part of area covered by SU 2104 and SU 2105,2010
+2128,2133,Covers,fill of circular feature,2010
+2142,2130,Covers,layer of light yellow/brown silt in central part of area covered by SU 2104 and SU 2105,2010
+2130,2140,Covers,layer of light yellow silt below SU 2130 in central part of area,2010
+2130,2145,Covers,layer of charcoal abutting SU 2032,2010
+2130,2137,Covers,layer of brown silt in south of area,2010
+2130,2147,Covers,layer of yellow silt below SU 2130,2010
+2130,2141,Covers,layer of charcoal in central part of area,2010
+2130,2123,Covers,rubble fill of spoliation cut,2010
+2130,2203,Covers,wall of tufo blocks with E-W orientation in central part of area,2010
+2132,2147,Covers,layer of yellow silt below SU 2130,2010
+2119,2135,Covers,rectangular feature of worked tufo slabs,2010
+2000,2137,Covers,layer of brown silt in south of area,2010
+2234,2186,Covers,linear feature of opus signinum,2010
+2137,2187,Covers,linear feature of opus signinum,2010
+2137,2207,Covers,layer of brown silt (fills SU 2006),2010
+2142,2140,Covers,layer of light yellow silt below SU 2130 in central part of area,2010
+2140,2154,Covers,charcoal fill of SU 2146,2010
+2140,2155,Covers,layer of slag fills SU 2156,2010
+2140,2147,Covers,layer of yellow silt below SU 2130,2010
+2141,2143,Covers,layer of charcoal that fills SU 2144 covered by SU 2141,2010
+2094,2142,Covers,feature of irregular stones abutting SU 2033,2010
+2127,2147,Covers,layer of yellow silt below SU 2130,2010
+2145,2147,Covers,layer of yellow silt below SU 2130,2010
+2142,2155,Covers,layer of slag fills SU 2156,2010
+4000,2080,Covers,Wall of irregular stones with N-S orientation near the East limit of the area.,2010
+2222,2202,Covers,opus signinum surface south of 2201,2010
+2228,2202,Covers,opus signinum surface south of 2201,2010
+2234,2187,Covers,linear feature of opus signinum,2010
+2246,2213,Covers,opus signinum surface (W of SU 2202),2010
+2246,2202,Covers,opus signinum surface south of 2201,2010
+2305,2202,Covers,opus signinum surface south of 2201,2010
+2312,2202,Covers,opus signinum surface south of 2201,2010
+2313,2202,Covers,opus signinum surface south of 2201,2010
+2315,2214,Covers,opus signinum surface (S of SU 2180),2010
+2092,2115,Covers,"erosion and collapse of layers of stone SU 2075 and SU 2082, of wall SU 2080, of road SU 2093, filled by layer SU 2092",2010
+2074,2097,Abuts,Concentration of tufo and basalt fragments W of SU 2051.,2010
+2074,2108,Abuts,circular feature of tufo and basalt fragments,2010
+2075,2081,Abuts,Wall of irregular stones with N-S orientation in the NE part of area.,2010
+2075,2080,Abuts,Wall of irregular stones with N-S orientation near the East limit of the area.,2010
+2075,2114,Abuts,tract of wall with clay and small stones in NE part of area,2010
+2082,2080,Abuts,Wall of irregular stones with N-S orientation near the East limit of the area.,2010
+2082,2081,Abuts,Wall of irregular stones with N-S orientation in the NE part of area.,2010
+2094,2097,Abuts,Concentration of tufo and basalt fragments W of SU 2051.,2010
+2095,2114,Abuts,tract of wall with clay and small stones in NE part of area,2010
+2096,2104,Abuts,Layer of basalt and tufo fragments,2010
+2109,2114,Abuts,tract of wall with clay and small stones in NE part of area,2010
+2093,2080,Abuts,Wall of irregular stones with N-S orientation near the East limit of the area.,2010
+2093,2081,Abuts,Wall of irregular stones with N-S orientation in the NE part of area.,2010
+2093,2114,Abuts,tract of wall with clay and small stones in NE part of area,2010
+2114,2081,Abuts,Wall of irregular stones with N-S orientation in the NE part of area.,2010
+2171,2179,Abuts,wall of worked and irregular blocks with N-S orientation,2010
+2171,2180,Abuts,l-shaped tract of wall in south-central part of area,2010
+2174,2179,Abuts,wall of worked and irregular blocks with N-S orientation,2010
+2174,2180,Abuts,l-shaped tract of wall in south-central part of area,2010
+2176,2175,Abuts,layer of basalt paving stones,2010
+2093,2175,Abuts,layer of basalt paving stones,2010
+2176,2080,Abuts,Wall of irregular stones with N-S orientation near the East limit of the area.,2010
+2176,2093,Abuts,Glariate road surface in NE part of area.,2010
+2177,2186,Abuts,linear feature of opus signinum,2010
+2177,2187,Abuts,linear feature of opus signinum,2010
+2177,2203,Abuts,wall of tufo blocks with E-W orientation in central part of area,2010
+2178,2179,Abuts,wall of worked and irregular blocks with N-S orientation,2010
+2178,2180,Abuts,l-shaped tract of wall in south-central part of area,2010
+2026,2179,Abuts,wall of worked and irregular blocks with N-S orientation,2010
+2201,2179,Abuts,wall of worked and irregular blocks with N-S orientation,2010
+2214,2180,Abuts,l-shaped tract of wall in south-central part of area,2010
+2208,2180,Abuts,l-shaped tract of wall in south-central part of area,2010
+2190,2203,Abuts,wall of tufo blocks with E-W orientation in central part of area,2010
+2201,2203,Abuts,wall of tufo blocks with E-W orientation in central part of area,2010
+2171,2203,Abuts,wall of tufo blocks with E-W orientation in central part of area,2010
+2205,2203,Abuts,wall of tufo blocks with E-W orientation in central part of area,2010
+2100,2077,Abuts,Semicircular tract of wall in the 2010 extension of area C.,2010
+2042,2077,Abuts,Semicircular tract of wall in the 2010 extension of area C.,2010
+2014,2077,Abuts,Semicircular tract of wall in the 2010 extension of area C.,2010
+2103,2104,Abuts,Layer of basalt and tufo fragments,2010
+2105,2118,Abuts,alignment of irregular blocks with E-W orientation,2010
+2105,2119,Abuts,alignment of irregular blocks,2010
+2104,2127,Abuts,alignment of irregular stones with N-S orientation,2010
+2130,2135,Abuts,rectangular feature of worked tufo slabs,2010
+2147,2135,Abuts,rectangular feature of worked tufo slabs,2010
+2137,2203,Abuts,wall of tufo blocks with E-W orientation in central part of area,2010
+2141,2135,Abuts,rectangular feature of worked tufo slabs,2010
+2035,2147,Abuts,layer of yellow silt below SU 2130,2010
+2083,2084,Fills,Circular cut in the tufo.,2010
+2085,2086,Fills,Rectangular cut into the tufo.,2010
+2087,2086,Fills,Rectangular cut into the tufo.,2010
+2090,2086,Fills,Rectangular cut into the tufo.,2010
+2091,2086,Fills,Rectangular cut into the tufo.,2010
+2088,2089,Fills,Tufo sarcophagus.,2010
+2102,2101,Fills,"Cut into the bedrock in the NE area filled by SU 2102, SU 2106, and SU 2107.",2010
+2106,2101,Fills,"Cut into the bedrock in the NE area filled by SU 2102, SU 2106, and SU 2107.",2010
+2107,2101,Fills,"Cut into the bedrock in the NE area filled by SU 2102, SU 2106, and SU 2107.",2010
+2131,2138,Fills,cut filled by glariate road 2131,2010
+2149,2148,Fills,circular cut into bedrock in NE part of area,2010
+2151,2150,Fills,circular cut into bedrock in NE part of area,2010
+2153,2152,Fills,circular cut into bedrock in NE part of area,2010
+2158,2157,Fills,small circular cut into bedrock in northeast part of area,2010
+2160,2159,Fills,small circular cut into bedrock in northeast part of area,2010
+2162,2161,Fills,small circular cut into bedrock in northeast part of area,2010
+2164,2163,Fills,small circular cut into bedrock in northeast part of area,2010
+2166,2165,Fills,small circular cut into bedrock in northeast part of area,2010
+2168,2167,Fills,small circular cut into bedrock in northeast part of area,2010
+2170,2169,Fills,circular cut into bedrock in NE part of area,2010
+2173,2172,Fills,rectangular cut through glareate road 2099,2010
+2184,2188,Fills,irregular shape cut filled by SU 2184,2010
+2189,2191,Fills,narrow channel cut into bedrock,2010
+2181,2191,Fills,narrow channel cut into bedrock,2010
+2099,2191,Fills,narrow channel cut into bedrock,2010
+2207,2206,Fills,linear cut with NE- SW orientation (drainage channel),2010
+2174,2210,Fills,rectangular cut into opus signinum surface,2010
+2113,2112,Fills,cut within rubble preparation,2010
+2123,2124,Fills,spoliation cut of tufo slab,2010
+2128,2129,Fills,spoliation cut of tufo slabs,2010
+2133,2134,Fills,circular feature of tufo blocks,2010
+2143,2144,Fills,cut of SU 2147 filled by SU 2143,2010
+2141,2144,Fills,cut of SU 2147 filled by SU 2143,2010
+2154,2146,Fills,cut of SU 2147 filled by SU 2154,2010
+2155,2156,Fills,cut of SU 2147 filled by SU 2155,2010
+3042,2206,Fills,linear cut with NE- SW orientation (drainage channel),2010
+3730,2206,Fills,linear cut with NE- SW orientation (drainage channel),2010
+2179,2180,Is Bound To,l-shaped tract of wall in south-central part of area,2010
+2179,2203,Is Bound To,wall of tufo blocks with E-W orientation in central part of area,2010
+2180,2179,Is Bound To,wall of worked and irregular blocks with N-S orientation,2010
+2203,2179,Is Bound To,wall of worked and irregular blocks with N-S orientation,2010
+2077,2078,Is Bound To,Wall of irregular stones with N-S orientation.,2010
+2078,2077,Is Bound To,Semicircular tract of wall in the 2010 extension of area C.,2010
+2118,2119,Is Bound To,alignment of irregular blocks,2010
+2119,2118,Is Bound To,alignment of irregular blocks with E-W orientation,2010
+2000,2073,Equals,Layer of silty clay in the NE corner of area.,2010
+2090,2085,Equals,Layer of brown silty clay.,2010
+2085,2090,Equals,Layer of silt and tufo rubble under the tufo sarcophagus.,2010
+2094,2074,Equals,"Layer of light brown silt between SU 2038, SU 2035, SU 2053, SU 2052, SU 2054, and SU 2033.",2010
+2082,2075,Equals,Layer of stones in the NE corner of the area.,2010
+2075,2082,Equals,Layer of stones in NE part of area.,2010
+2074,2094,Equals,Layer of yellowish-brown silt in the Central part of the area.,2010
+2136,2139,Equals,layer of brown silt in NE part of area,2010
+2098,2097,Equals,Concentration of tufo and basalt fragments W of SU 2051.,2010
+2181,2099,Equals,glariate road surface in NW part of the area,2010
+2186,2187,Equals,linear feature of opus signinum,2010
+2187,2186,Equals,linear feature of opus signinum,2010
+2201,2202,Equals,opus signinum surface south of 2201,2010
+2201,2213,Equals,opus signinum surface (W of SU 2202),2010
+2202,2201,Equals,opus signinum surface south of 2203,2010
+2202,2213,Equals,opus signinum surface (W of SU 2202),2010
+2213,2201,Equals,opus signinum surface south of 2203,2010
+2213,2202,Equals,opus signinum surface south of 2201,2010
+2099,2181,Equals,glareate road surface in western part of area,2010
+2104,2105,Equals,layer of basalt and tufo fragments,2010
+2105,2104,Equals,Layer of basalt and tufo fragments,2010
+2111,2130,Equals,layer of light yellow/brown silt in central part of area covered by SU 2104 and SU 2105,2010
+2116,2117,Equals,layer of tufo running east-west in south part of area,2010
+2117,2116,Equals,layer of tufo running east-west in south part of area,2010
+2130,2111,Equals,layer of light yellow-brown silt in central part of area,2010
+2253,2202,Equals,opus signinum surface south of 2201,2010
+2253,2213,Equals,opus signinum surface (W of SU 2202),2010
+2272,2202,Equals,opus signinum surface south of 2201,2010
+2272,2213,Equals,opus signinum surface (W of SU 2202),2010
+2236,2230,Cuts,floor of Room C5,2011
+2254,2232,Cuts,Western ledge of cocciopesto of Room C5,2011
+2294,2290,Cuts,Section of basalt foundation abutting 2239,2011
+2294,2291,Cuts,Section of basalt foundation N of 2290,2011
+2206,2211,Cuts,Rectangular cut into opus signinum surface SU 2201,2011
+2206,2221,Cuts,Topsoil over wall in S corner of 2nd c. house in new excavation area,2011
+2206,2222,Cuts,Remains of topsoil across S part of Area,2011
+2206,2234,Cuts,Silty layer over walls in NE room of 2nd c. BC house,2011
+2206,2217,Cuts,Tract of wall of tufo blocks with E-W orientation in S-Central part of area,2011
+2238,2230,Cuts,floor of Room C5,2011
+2252,2253,Cuts,Floor/pavement preparation under 2243,2011
+2300,2253,Cuts,Floor/pavement preparation under 2243,2011
+2302,2253,Cuts,Floor/pavement preparation under 2243,2011
+2206,2227,Cuts,Filled of robbed out wall N of room in SW corner (Room C5),2011
+3011,3000,Cuts,Silty brown layer of colluvium,2011
+2206,2310,Cuts,Fill of robbing cut above wall SU 2033,2011
+4032,2291,Cuts,Section of basalt foundation N of 2290,2011
+4032,2292,Cuts,Section of basalt foundation N of 2291,2011
+4035,2290,Cuts,Section of basalt foundation abutting 2239,2011
+4035,2291,Cuts,Section of basalt foundation N of 2290,2011
+2369,2292,Cuts,Section of basalt foundation N of 2291,2011
+2304,2371,Cuts,Small yellow patch along W edge of SU 2304,2011
+2285,2260,Cuts,L-shaped wall of irregular basalt stones aligned with E-W wall 2274,2011
+2327,2329,Cuts,Light orangish-yellow layer W of wall 2260/2275,2011
+2285,2329,Cuts,Light orangish-yellow layer W of wall 2260/2275,2011
+2247,2231,Cuts,N ledge of cocciopesto of room C5,2011
+2293,2239,Cuts,E-W wall of tufo blocks,2011
+2242,2240,Cuts,E-W of basalt stones,2011
+2242,2307,Cuts,Possible fill of robbing cut S of 2253,2011
+2304,2246,Cuts,Large layer corresponding to central area of house without pavement preparation,2011
+2206,2247,Cuts,Robbing cut filled with SU 2227,2011
+2206,2248,Cuts,N-S wall of large basalt rubble E of mortared walls 2186 and 2187,2011
+2298,2253,Cuts,Floor/pavement preparation under 2243,2011
+2206,2308,Cuts,Post abandonment layer north of SU 2292,2011
+2206,2304,Cuts,"Cut filled by SU 2303, into surfaces SU 2202 and SU 2213",2011
+2282,2307,Cuts,Possible fill of robbing cut S of 2253,2011
+2282,2289,Cuts,Superficial accumulation layers of 2290,2011
+2285,2276,Cuts,N-S Wall of basalt 2274 and 2306,2011
+2286,2276,Cuts,N-S Wall of basalt 2274 and 2306,2011
+2286,2335,Cuts,Layer of yellow crushed tufo S of wall 2260/2274,2011
+2293,2290,Cuts,Section of basalt foundation abutting 2239,2011
+2295,2291,Cuts,Section of basalt foundation N of 2290,2011
+2295,2292,Cuts,Section of basalt foundation N of 2291,2011
+2304,2313,Cuts,Possible fill of linear robbing cut into floor SU 2253,2011
+2304,2345,Cuts,"Central layer corresponding to 2330, S of rubble 2344",2011
+2304,2374,Cuts,N-S spread of rubble along W edge of trench 2304,2011
+2347,2320,Cuts,"Compact surface beneath 2307, E of floor 2253",2011
+2348,2349,Cuts,Layer with red and grey tufo inclusions beneath 2337,2011
+2356,2365,Cuts,Fill of the feed to teh cistern,2011
+2359,2349,Cuts,Layer with red and grey tufo inclusions beneath 2337,2011
+2367,2306,Cuts,E-W wall of irregular basalt stone aligned with 2274,2011
+3002,3000,Cuts,Silty brown layer of colluvium,2011
+2495,2261,Equals,E-W tufo wall S of walls 2276 and 2278,2011
+2225,2232,Covers,Western ledge of cocciopesto of Room C5,2011
+2232,2230,Covers,floor of Room C5,2011
+2225,2235,Covers,Fill of circular cut (SU 2236) in the S portion of room C5 floor,2011
+2222,2241,Covers,Fill of robbery trench of wall 2240,2011
+2225,2237,Covers,Fill of oval cut (SU 2238) in center of room C5,2011
+0,2265,Covers,Small circular burnt patch,2011
+2265,2268,Covers,Layer to the W of SU 2258,2011
+0,2267,Covers,Linear group of stones aligned with SU 2223 to N,2011
+2267,2268,Covers,Layer to the W of SU 2258,2011
+2257,2270,Covers,Linear feature of stones and tiles covered by 2257,2011
+2277,2276,Covers,N-S Wall of basalt 2274 and 2306,2011
+2258,2277,Covers,E extension of 2259,2011
+2258,2259,Covers,"Long E-W tufo, basalt, travertine wall across centre of S. extension",2011
+2228,2252,Covers,Circular cut filled with SU 2251,2011
+2234,2271,Covers,Possible fill of robbing trench,2011
+2271,2281,Covers,Large layer defined by eastern edge of area C,2011
+2271,2253,Covers,Floor/pavement preparation under 2243,2011
+2228,2297,Covers,"Circular pit fill under SU 2243, E of SU 2251",2011
+2243,2297,Covers,"Circular pit fill under SU 2243, E of SU 2251",2011
+2243,2299,Covers,"Circular pit fill under SU 2243, E of SU 2297",2011
+2243,2301,Covers,"Square cut fill under SU 2243, E of SU 2299",2011
+2243,2257,Covers,Possible pit fill lined with tile fragments E of SU 2253,2011
+2318,2324,Covers,Very dark deposit under SU 2318,2011
+2324,2370,Covers,Large layer between walls SU 2278 and SU 2264,2011
+2246,2334,Covers,Possible fill of robbing cut north of wall SU 2274,2011
+2268,2328,Covers,Strip of rubble that might represent base of robbing cut,2011
+2328,2329,Covers,Light orangish-yellow layer W of wall 2260/2275,2011
+2246,2371,Covers,Small yellow patch along W edge of SU 2304,2011
+2371,2374,Covers,N-S spread of rubble along W edge of trench 2304,2011
+2314,2273,Covers,Remnants of a cocciopesto floor,2011
+2246,2273,Covers,Remnants of a cocciopesto floor,2011
+2273,2325,Covers,A patch of compact surface directly beneath 2273,2011
+0,2275,Covers,Grey tufo block N of wall 2260,2011
+2272,2275,Covers,Grey tufo block N of wall 2260,2011
+2258,2260,Covers,L-shaped wall of irregular basalt stones aligned with E-W wall 2274,2011
+2272,2260,Covers,L-shaped wall of irregular basalt stones aligned with E-W wall 2274,2011
+2335,2260,Covers,L-shaped wall of irregular basalt stones aligned with E-W wall 2274,2011
+2260,2329,Covers,Light orangish-yellow layer W of wall 2260/2275,2011
+2323,2370,Covers,Large layer between walls SU 2278 and SU 2264,2011
+2258,2266,Covers,Reddish layer E of SU 2258,2011
+2266,2280,Covers,"Layer E of SU 2264, N of SU 2262, W of SU 4011, S of SU 2240",2011
+2266,2279,Covers,Layer on top of and to the east of wall 2278,2011
+2279,2278,Covers,Basalt wall extension S of and same allignment as 2256,2011
+2279,2256,Covers,N-S wall foundation of large ashlar tufo blocks,2011
+2279,2323,Covers,reddish deposit between SU 2256 and SU 2240,2011
+2221,2268,Covers,Layer to the W of SU 2258,2011
+2268,2319,Covers,Linear patch of brown soil W of wall SU 2260 / SU 2275,2011
+2268,2372,Covers,Wall due South of 2233,2011
+2268,2329,Covers,Light orangish-yellow layer W of wall 2260/2275,2011
+2329,2373,Covers,Wall foundation due W of walls 2260 and 2275,2011
+2329,2377,Covers,"Linear cluster of stones, SW of wall foundation 2373",2011
+2280,2262,Covers,Brown tufo wall section-tangental road to the E to similar blocks bordering,2011
+2280,2323,Covers,reddish deposit between SU 2256 and SU 2240,2011
+2323,2355,Covers,"Linear Group of stones on E-W alignment, W of 2353",2011
+2323,2354,Covers,"Linear Group of stones aligned with 2262, S of wall 2240",2011
+2323,2256,Covers,N-S wall foundation of large ashlar tufo blocks,2011
+2323,2262,Covers,Brown tufo wall section-tangental road to the E to similar blocks bordering,2011
+3004,2219,Covers,Semi-circular wall in N part of area,2011
+0,2221,Covers,Topsoil over wall in S corner of 2nd c. house in new excavation area,2011
+2221,2223,Covers,Rubble fill of robbing cut along W side of Room C5,2011
+2221,2226,Covers,Layer over robbed-out wall S of room in SW corner (Room C5),2011
+0,2222,Covers,Remains of topsoil across S part of Area,2011
+2222,2229,Covers,Layer bounded by road on E and L-shaped tufo wall on S and W,2011
+2222,2228,Covers,Large layer in S central part of 2nd century house,2011
+2222,2227,Covers,Filled of robbed out wall N of room in SW corner (Room C5),2011
+2222,2243,Covers,Layer in the area of house enclosed by walls SU 2239 and SU 2246,2011
+0,2224,Covers,Remains of topsoil E of SU 2221 and W of SU 2222,2011
+2224,2225,Covers,Layer over floor in SW room of 2011 area extension (Room C5),2011
+2225,2230,Covers,floor of Room C5,2011
+2225,2231,Covers,N ledge of cocciopesto of room C5,2011
+0,2226,Covers,Layer over robbed-out wall S of room in SW corner (Room C5),2011
+2226,2233,Covers,E-W wall along the S edge of Room C5,2011
+2228,2253,Covers,Floor/pavement preparation under 2243,2011
+2228,2246,Covers,Large layer corresponding to central area of house without pavement preparation,2011
+2228,2251,Covers,Circular pit fill under SU 2228,2011
+2229,2239,Covers,E-W wall of tufo blocks,2011
+2229,2245,Covers,Wall foundation N-S large ashlar tufo blocks,2011
+2229,2281,Covers,Large layer defined by eastern edge of area C,2011
+2231,2230,Covers,floor of Room C5,2011
+2230,2233,Covers,E-W wall along the S edge of Room C5,2011
+2224,2233,Covers,E-W wall along the S edge of Room C5,2011
+2232,2233,Covers,E-W wall along the S edge of Room C5,2011
+2234,2281,Covers,Large layer defined by eastern edge of area C,2011
+2253,2239,Covers,E-W wall of tufo blocks,2011
+2290,2239,Covers,E-W wall of tufo blocks,2011
+2320,2239,Covers,E-W wall of tufo blocks,2011
+2281,2239,Covers,E-W wall of tufo blocks,2011
+2243,2253,Covers,Floor/pavement preparation under 2243,2011
+2243,2283,Covers,Compact surface w/crushed tufo b/w walls 2239 and 2240,2011
+2253,2245,Covers,Wall foundation N-S large ashlar tufo blocks,2011
+2281,2245,Covers,Wall foundation N-S large ashlar tufo blocks,2011
+2246,2330,Covers,Large central layer beneath 2246; E of long trench 2304,2011
+2246,2331,Covers,"Central layer corresponding to 2330, W of the long trench (2304)",2011
+2246,2253,Covers,Floor/pavement preparation under 2243,2011
+2246,2272,Covers,"Remnants of a coccio pesto floor abutting 2274, 2275",2011
+2246,2345,Covers,"Central layer corresponding to 2330, S of rubble 2344",2011
+2246,2338,Covers,Circular fill of possible cistern,2011
+2246,2374,Covers,N-S spread of rubble along W edge of trench 2304,2011
+2246,2351,Covers,Fill of possible construction trench N of wall 2306,2011
+2202,2248,Covers,N-S wall of large basalt rubble E of mortared walls 2186 and 2187,2011
+2281,2248,Covers,N-S wall of large basalt rubble E of mortared walls 2186 and 2187,2011
+2202,2249,Covers,Wall foundation of medium basalt rubble abutting wall 2248 to the S,2011
+2223,2250,Covers,N-S rubble wall along W side of Room C5,2011
+2250,2254,Covers,"Robbing cut along W side of Room C5, filled by SU 2223",2011
+2307,2253,Covers,Floor/pavement preparation under 2243,2011
+2313,2253,Covers,Floor/pavement preparation under 2243,2011
+2253,2256,Covers,N-S wall foundation of large ashlar tufo blocks,2011
+2253,2311,Covers,"Darker, loose layer within cut 2298",2011
+2057,2255,Covers,Patchy orange layer in the NE corner of area,2011
+0,2263,Covers,two gray tufo blocks between 2262 and road border,2011
+0,2264,Covers,N-S wall comprising flat tufo blocks W of 2262,2011
+0,2269,Covers,"Layer to the S of SU 2259
+Excavation resumed in 2015, new SU numbers (2382, 2385) assigned.",2011
+0,2288,Covers,Linear group of stones aligned with 2262 to N,2011
+0,2309,Covers,Grey tufo wall foundation. Eastward extension of 2261,2011
+0,2318,Covers,Remains of post abandonment layer W of wall SU 2264,2011
+0,2258,Covers,Large layer in center of 2011 extension,2011
+0,2287,Covers,Layer between walls 2264 and 2288,2011
+0,2303,Covers,Linear fill of cut between surfaces SU 2202 and SU 2213,2011
+2043,3000,Covers,Silty brown layer of colluvium,2011
+2202,2317,Covers,A patch of soil directly beneath 2202,2011
+2206,2303,Covers,Linear fill of cut between surfaces SU 2202 and SU 2213,2011
+2208,2315,Covers,Patch of soil with bone upon cocciopesto floor SU 2201,2011
+2228,2312,Covers,Possible fill of linear robbing cut into floor SU 2202,2011
+2228,2313,Covers,Possible fill of linear robbing cut into floor SU 2253,2011
+2234,2305,Covers,Possible fill of robbing cut E of SU 2202 & SU 2253.,2011
+2239,2290,Covers,Section of basalt foundation abutting 2239,2011
+2240,2354,Covers,"Linear Group of stones aligned with 2262, S of wall 2240",2011
+2243,2307,Covers,Possible fill of robbing cut S of 2253,2011
+2246,2343,Covers,Layer of soil N of wall 2274 and surface 2335,2011
+2246,2350,Covers,Fill of possible construction trench N of wall 2274,2011
+2253,2320,Covers,"Compact surface beneath 2307, E of floor 2253",2011
+2258,2272,Covers,"Remnants of a coccio pesto floor abutting 2274, 2275",2011
+2258,2314,Covers,Possible fill of robbing cut between floors SU 2272 (W) and SU 2273 (E),2011
+2258,2268,Covers,Layer to the W of SU 2258,2011
+2258,2315,Covers,Patch of soil with bone upon cocciopesto floor SU 2201,2011
+2258,2273,Covers,Remnants of a cocciopesto floor,2011
+2258,2335,Covers,Layer of yellow crushed tufo S of wall 2260/2274,2011
+2258,2337,Covers,Reddish layers S of wall SU 2306,2011
+2258,2360,Covers,Possible fill of a robbery trench of E end of wall SU 2306,2011
+2258,2342,Covers,"Cluster of small stones E of wall 2276, possible packing of foundation trench",2011
+2262,2353,Covers,Fill of possible construction trench S of wall 2306,2011
+2263,2262,Covers,Brown tufo wall section-tangental road to the E to similar blocks bordering,2011
+2264,2287,Covers,Layer between walls 2264 and 2288,2011
+2268,2377,Covers,"Linear cluster of stones, SW of wall foundation 2373",2011
+2269,2261,Covers,E-W tufo wall S of walls 2276 and 2278,2011
+2272,2274,Covers,E-W wall of irregular basalt stones,2011
+2274,2276,Covers,N-S Wall of basalt 2274 and 2306,2011
+2278,2349,Covers,Layer with red and grey tufo inclusions beneath 2337,2011
+2281,2284,Covers,Rectangular fireplace w/tile in center,2011
+2281,2316,Covers,Patch of crushed tufo beneath 2281,2011
+2281,2295,Covers,Robbing cut of basalt walls between SU 2291 and SU 2292,2011
+2281,2340,Covers,"Strip of post-abandonment layer, W of northern end of 2292",2011
+2283,2320,Covers,"Compact surface beneath 2307, E of floor 2253",2011
+2284,2296,Covers,Pottery within 2284,2011
+2288,2262,Covers,Brown tufo wall section-tangental road to the E to similar blocks bordering,2011
+2288,2287,Covers,Layer between walls 2264 and 2288,2011
+2289,2307,Covers,Possible fill of robbing cut S of 2253,2011
+2292,2346,Covers,Deposit along western edge of 2292,2011
+2293,2290,Covers,Section of basalt foundation abutting 2239,2011
+2294,2290,Covers,Section of basalt foundation abutting 2239,2011
+2305,2253,Covers,Floor/pavement preparation under 2243,2011
+2306,2276,Covers,N-S Wall of basalt 2274 and 2306,2011
+2307,2320,Covers,"Compact surface beneath 2307, E of floor 2253",2011
+2307,2333,Covers,Possible foundation packing along North side of wall 2240,2011
+2308,2321,Covers,Basalt stones,2011
+2308,2340,Covers,"Strip of post-abandonment layer, W of northern end of 2292",2011
+2314,2272,Covers,"Remnants of a coccio pesto floor abutting 2274, 2275",2011
+2316,2322,Covers,Deposit of concotta beneath 2316,2011
+2325,2343,Covers,Layer of soil N of wall 2274 and surface 2335,2011
+2325,2350,Covers,Fill of possible construction trench N of wall 2274,2011
+2330,2356,Covers,Patch of red tufo gravel E of trench 2304,2011
+2330,2344,Covers,E-W spread of rubble in the area of the atrium,2011
+2331,2357,Covers,Patch of red tufo gravel W of trench 2304,2011
+2333,2240,Covers,E-W of basalt stones,2011
+2335,2274,Covers,E-W wall of irregular basalt stones,2011
+2335,2276,Covers,N-S Wall of basalt 2274 and 2306,2011
+2337,2342,Covers,"Cluster of small stones E of wall 2276, possible packing of foundation trench",2011
+2337,2352,Covers,Fill of possible construction trench S of wall 2306,2011
+2338,2341,Covers,Mortar lining of cistern (2339),2011
+2340,2358,Covers,Spread of stones W of N end of SU 2292,2011
+2342,2276,Covers,N-S Wall of basalt 2274 and 2306,2011
+2343,2274,Covers,E-W wall of irregular basalt stones,2011
+2345,2344,Covers,E-W spread of rubble in the area of the atrium,2011
+2347,2320,Covers,"Compact surface beneath 2307, E of floor 2253",2011
+2350,2274,Covers,E-W wall of irregular basalt stones,2011
+2351,2306,Covers,E-W wall of irregular basalt stone aligned with 2274,2011
+2352,2306,Covers,E-W wall of irregular basalt stone aligned with 2274,2011
+2354,2240,Covers,E-W of basalt stones,2011
+2354,2353,Covers,Fill of possible construction trench S of wall 2306,2011
+2356,2365,Covers,Fill of the feed to teh cistern,2011
+2356,2368,Covers,Large layer S of the cistern and N of rubble (2344),2011
+2357,2374,Covers,N-S spread of rubble along W edge of trench 2304,2011
+2364,2363,Covers,Mortar lining of the feed to the cistern,2011
+2365,2364,Covers,Bottom tiles of the feed to the cistern,2011
+2366,2339,Covers,"Circular cut of cistern, filled by 2338",2011
+2368,2376,Covers,Layer with tufo inclusions beneath 2368,2011
+2368,2344,Covers,E-W spread of rubble in the area of the atrium,2011
+2000,2308,Covers,Post abandonment layer north of SU 2292,2011
+2434,2306,Covers,E-W wall of irregular basalt stone aligned with 2274,2011
+2277,2259,Abuts,"Long E-W tufo, basalt, travertine wall across centre of S. extension",2011
+2259,2277,Abuts,E extension of 2259,2011
+3020,2219,Abuts,Semi-circular wall in N part of area,2011
+3012,2219,Abuts,Semi-circular wall in N part of area,2011
+4029,2292,Abuts,Section of basalt foundation N of 2291,2011
+2275,2260,Abuts,L-shaped wall of irregular basalt stones aligned with E-W wall 2274,2011
+2249,2248,Abuts,N-S wall of large basalt rubble E of mortared walls 2186 and 2187,2011
+2285,2286,Abuts,Foundation trench of wall 2277,2011
+2286,2285,Abuts,Foundation trench of wall 2259,2011
+2303,2304,Abuts,"Cut filled by SU 2303, into surfaces SU 2202 and SU 2213",2011
+2308,2292,Abuts,Section of basalt foundation N of 2291,2011
+4046,2290,Abuts,Section of basalt foundation abutting 2239,2011
+4046,2291,Abuts,Section of basalt foundation N of 2290,2011
+2381,2245,Abuts,Wall foundation N-S large ashlar tufo blocks,2011
+2383,2256,Abuts,N-S wall foundation of large ashlar tufo blocks,2011
+2387,2274,Abuts,E-W wall of irregular basalt stones,2011
+2388,2274,Abuts,E-W wall of irregular basalt stones,2011
+2402,2260,Abuts,L-shaped wall of irregular basalt stones aligned with E-W wall 2274,2011
+2402,2274,Abuts,E-W wall of irregular basalt stones,2011
+2410,2306,Abuts,E-W wall of irregular basalt stone aligned with 2274,2011
+2414,2256,Abuts,N-S wall foundation of large ashlar tufo blocks,2011
+2398,2256,Abuts,N-S wall foundation of large ashlar tufo blocks,2011
+2399,2240,Abuts,E-W of basalt stones,2011
+2416,2355,Abuts,"Linear Group of stones on E-W alignment, W of 2353",2011
+2440,2256,Abuts,N-S wall foundation of large ashlar tufo blocks,2011
+2469,2355,Abuts,"Linear Group of stones on E-W alignment, W of 2353",2011
+2416,2240,Abuts,E-W of basalt stones,2011
+2235,2236,Fills,"Circular cut in the S portion of room C5 floor, filled by SU 2235",2011
+2241,2242,Fills,Robbery trench of wall 2240,2011
+2227,2247,Fills,Robbing cut filled with SU 2227,2011
+2237,2238,Fills,Oval cut in the center of Room C5 floor,2011
+2281,2294,Fills,"Robbing cut of basalt wall, between SU 2290 and SU 2291
+SU CANCELLED: SEE SU 4035.",2011
+2270,2282,Fills,Construction cut filled by 2270,2011
+2277,2286,Fills,Foundation trench of wall 2277,2011
+2259,2285,Fills,Foundation trench of wall 2259,2011
+2297,2298,Fills,Pit filled by SU 2297,2011
+2299,2300,Fills,Cut filled by SU 2299,2011
+2301,2302,Fills,Cut filled by 2301,2011
+2334,2336,Fills,Cut filled by SU 2334,2011
+2358,2369,Fills,Cut filled with SU 2358,2011
+2319,2327,Fills,"Cut filled with 2319, W of 2275",2011
+2223,2254,Fills,"Robbing cut along W side of Room C5, filled by SU 2223",2011
+2251,2252,Fills,Circular cut filled with SU 2251,2011
+2240,2347,Fills,Construction trench for wall foundation 2240,2011
+2274,2375,Fills,Foundation trench for wall 2274,2011
+2276,2348,Fills,Construction trench for wall foundation 2276,2011
+2281,2293,Fills,"Robbing cut of basalt wall, S of SU 2290",2011
+2303,2304,Fills,"Cut filled by SU 2303, into surfaces SU 2202 and SU 2213",2011
+2306,2359,Fills,Construction trench for wall foundation 2306,2011
+2316,2326,Fills,A shallow depression (shallow cut) filled with 2322,2011
+2322,2326,Fills,A shallow depression (shallow cut) filled with 2322,2011
+2333,2347,Fills,Construction trench for wall foundation 2240,2011
+2338,2339,Fills,"Circular cut of cistern, filled by 2338",2011
+2341,2339,Fills,"Circular cut of cistern, filled by 2338",2011
+2342,2348,Fills,Construction trench for wall foundation 2276,2011
+2343,2375,Fills,Foundation trench for wall 2274,2011
+2350,2375,Fills,Foundation trench for wall 2274,2011
+2351,2359,Fills,Construction trench for wall foundation 2306,2011
+2352,2359,Fills,Construction trench for wall foundation 2306,2011
+2360,2367,Fills,Robbing cut of wall SU 2306,2011
+2363,2366,Fills,Cut for the feed to the cistern,2011
+2365,2364,Fills,Bottom tiles of the feed to the cistern,2011
+2239,2245,Is Bound To,Wall foundation N-S large ashlar tufo blocks,2011
+2288,2264,Is Bound To,N-S wall comprising flat tufo blocks W of 2262,2011
+2305,2271,Equals,Possible fill of robbing trench,2011
+2223,2310,Equals,Fill of robbing cut above wall SU 2033,2011
+2202,2273,Equals,Remnants of a cocciopesto floor,2011
+2213,2273,Equals,Remnants of a cocciopesto floor,2011
+2253,2273,Equals,Remnants of a cocciopesto floor,2011
+2272,2273,Equals,Remnants of a cocciopesto floor,2011
+2226,2268,Equals,Layer to the W of SU 2258,2011
+3067,2219,Equals,Semi-circular wall in N part of area,2011
+2268,2226,Equals,Layer over robbed-out wall S of room in SW corner (Room C5),2011
+2243,2228,Equals,Large layer in S central part of 2nd century house,2011
+2258,2228,Equals,Large layer in S central part of 2nd century house,2011
+2243,2258,Equals,Large layer in center of 2011 extension,2011
+2253,2272,Equals,"Remnants of a coccio pesto floor abutting 2274, 2275",2011
+2211,2304,Equals,"Cut filled by SU 2303, into surfaces SU 2202 and SU 2213",2011
+2258,2243,Equals,Layer in the area of house enclosed by walls SU 2239 and SU 2246,2011
+2272,2253,Equals,Floor/pavement preparation under 2243,2011
+2303,2211,Equals,Rectangular cut into opus signinum surface SU 2201,2011
+2330,2331,Equals,"Central layer corresponding to 2330, W of the long trench (2304)",2011
+2331,2330,Equals,Large central layer beneath 2246; E of long trench 2304,2011
+2343,2350,Equals,Fill of possible construction trench N of wall 2274,2011
+2350,2343,Equals,Layer of soil N of wall 2274 and surface 2335,2011
+2531,2240,Abuts,E-W of basalt stones,2011
+2539,2296,Covers,Pottery within 2284,2011
+2632,2256,Abuts,N-S wall foundation of large ashlar tufo blocks,2011
+2630,2290,Abuts,Section of basalt foundation abutting 2239,2011
+2630,2239,Abuts,E-W wall of tufo blocks,2011
+2362,2361,Equals,Patch of pavement west of wall 2359,2011
+2246,2378,Covers,north-south orientated tufa blocks,2012
+2389,2412,Covers,E-W running wall E. of 2261,2012
+2408,2411,Cuts,Compact floor deposit S. of 2261,2015
+2428,2411,Cuts,Compact floor deposit S. of 2261,2015
+2432,2420,Cuts,Yellowish grey silty deposit with frequent stone inclusions W. of 2256,2015
+2304,2447,Cuts,Brown silty deposit along W. limit of 2015 Area C,2015
+2432,2433,Cuts,Compact light brown deposit NW of 2256,2015
+2453,2463,Cuts,Compact grey deposit along W. 2015 excavation limit,2015
+2482,2484,Cuts,"E.-W. Linear deposit of stones in S. part of courtyard, E. of 2437, =2437",2015
+2482,2437,Cuts,"Linear deposit of stones running E-W, N. of 2306=2484",2015
+2479,2494,Cuts,Yellow fill around cut 2479,2015
+2498,2487,Cuts,Compact brown deposit W. of 2245 in E. part of courtyard,2015
+2493,2500,Cuts,"Compact grey deposit with stone inclusions, = 2487",2015
+2493,2487,Cuts,Compact brown deposit W. of 2245 in E. part of courtyard,2015
+2498,2500,Cuts,"Compact grey deposit with stone inclusions, = 2487",2015
+2473,2400,Cuts,Brownish -yellow silty deposit in SW corner of area,2015
+2450,2462,Cuts,Compact yellow deposit in eastern part of courtyard,2015
+2362,2399,Equals,"Compact light brown deposit in N. half of Room C8""""",2015
+2202,2380,Covers,"Compact deposit S. of drainage channel, beneath floor preparation 2202 ",2015
+2253,2381,Covers,Compact light brown silty deposit W. of wall 2245,2015
+2269,2382,Covers,Loose gray deposit S.of wall SU 2277,2015
+2382,2385,Covers,Yellowish red silty deposit in S of area,2015
+2381,2384,Covers,Brown silty deposit W. of 2245,2015
+2380,2391,Covers,"Loose greyish brown silty deposit in N. part of courtyard,S. of drainage channel 2206",2015
+2387,2386,Covers,Compact yellow deposit in central courtyard,2015
+2388,2387,Covers,"Grey silty deposit N of 2274, = 2388",2015
+2388,2386,Covers,Compact yellow deposit in central courtyard,2015
+2389,2389,Covers,"Brown silty deposit in SE corner of area, part of ramp",2015
+2404,2406,Covers,Deposit of red-orange soil in SW corner of area,2015
+2274,2403,Covers,Deposit with frequent tufo inclusions S. 2274,2015
+2402,2410,Covers,Compact grey deposit N. of 2306,2015
+2431,2415,Covers,Loose silty grey deposit N. of 2411,2015
+2395,2426,Covers,Compact greyish-brown deposit W. of 2256,2015
+2421,2426,Covers,Compact greyish-brown deposit W. of 2256,2015
+2387,2402,Covers,Yellowish-brown silty deposit N. of 2274 in S. part of courtyard,2015
+2276,2403,Covers,Deposit with frequent tufo inclusions S. 2274,2015
+2260,2404,Covers,Tile fragnents S. of 2260,2015
+2385,2405,Covers,Deposit of stones in SE corner of area,2015
+2405,2407,Covers,Fill of cut 2408 in SE corner of area,2015
+2385,2417,Covers,Deposit of stones W. of wall SU 2412,2015
+2415,2423,Covers,"Grey silty deposit, = 2415 N. of 2261",2015
+2385,2425,Covers,Reddish-yellow deposit with frequent stone inclusions in SW corner of area,2015
+2281,2379,Covers,Cleaning layer in NE Quadrant of Area C S. of drainage channel,2015
+2383,2386,Covers,Compact yellow deposit in central courtyard,2015
+2384,2386,Covers,Compact yellow deposit in central courtyard,2015
+2370,2389,Covers,"Brown silty deposit in SE corner of area, part of ramp",2015
+2386,2390,Covers,"Deposit of stone and rubble in courtyard, S. of 2274",2015
+2386,2397,Covers,Compact yellow deposit with frequent stone inclusions W. of wall 2256 in S. half of courtyard,2015
+2361,2399,Equals,"Compact light brown deposit in N. half of Room C8""""",2015
+2471,2474,Covers,Light brown silty deposit S. of 2260,2015
+2403,2400,Covers,Brownish -yellow silty deposit in SW corner of area,2015
+2390,2401,Covers,Compact deposit of grey soil with stone inclusions in center of courtyard,2015
+2388,2402,Covers,Yellowish-brown silty deposit N. of 2274 in S. part of courtyard,2015
+2386,2402,Covers,Yellowish-brown silty deposit N. of 2274 in S. part of courtyard,2015
+2401,2409,Covers,Compact yellow deposit in S. half of courtyard  half ,2015
+2397,2409,Covers,Compact yellow deposit in S. half of courtyard  half ,2015
+2409,2418,Covers,Compact grey deposit in S. part of courtyard,2015
+2399,2414,Covers,"Compact grey deposit with stone inclusions in W. part of Room C8""""",2015
+2399,2416,Covers,"Brown silty deposit in N. half of Room C8"" S. of wall 2240""",2015
+2417,2411,Covers,Compact floor deposit S. of 2261,2015
+2389,2419,Covers,Collapse of stones related to wall 2412,2015
+2386,2421,Covers,Silty brown deposit S. of 2393,2015
+2306,2422,Covers,Compact deposit with frequent red tufo E. of 2276,2015
+2418,2424,Covers,Compact light grey deposit N. of 2306 in SW corner of courtyard,2015
+2385,2427,Covers,Fill of cut SU 2428 in SW corner of area,2015
+2402,2429,Covers,Light grey compact deposit N. of wall 2274,2015
+2386,2395,Covers,"N-S linear deposit of stones W. of 2394, W. of 2245",2015
+2393,2430,Covers,"Brown silty deposit W. of 2256, fill of cut 2432",2015
+2431,2423,Covers,"Grey silty deposit, = 2415 N. of 2261",2015
+2422,2403,Covers,Deposit with frequent tufo inclusions S. 2274,2015
+2276,2422,Covers,Compact deposit with frequent red tufo E. of 2276,2015
+2256,2436,Covers,Worked tufo block/slab in SE corner of courtyard W. of 2256,2015
+2410,2435,Covers,Loose brown silty deposit in SE corner of courtyard,2015
+2435,2451,Covers,Yellow silty deposit running E-W in S. part of courtyard,2015
+2400,2438,Covers,"Compact grey deposit in SW corner of area, S. of 2274, = 2429",2015
+2438,2429,Covers,Light grey compact deposit N. of wall 2274,2015
+2398,2475,Covers,"Yellowish-light brown silty deposit N. of 2437 in S. part of courtyard, fills SU 2482",2015
+2444,2446,Covers,Reddish brown deposit with frequent stone inclusions W. of 2256 ,2015
+2440,2420,Covers,Yellowish grey silty deposit with frequent stone inclusions W. of 2256,2015
+2420,2446,Covers,Reddish brown deposit with frequent stone inclusions W. of 2256 ,2015
+2389,2413,Covers,N-S running wall S. of 2412,2015
+2433,2439,Covers,Compact grey deposit with frequent stony inclusions along E. limit of courtyard,2015
+2433,2440,Covers,Loose brown silty deposit W. of wall 2256,2015
+2397,2435,Covers,Loose brown silty deposit in SE corner of courtyard,2015
+2435,2437,Covers,"Linear deposit of stones running E-W, N. of 2306=2484",2015
+2439,2420,Covers,Yellowish grey silty deposit with frequent stone inclusions W. of 2256,2015
+2440,2444,Covers,Deposit of basalt stones W. of wall 2256,2015
+2410,2441,Covers,Greyish-brown silty deposit in S. part of courtyard N. of 2437,2015
+2441,2451,Covers,Yellow silty deposit running E-W in S. part of courtyard,2015
+2424,2442,Covers,Compact light grey deposit NW of 2437,2015
+2443,2448,Covers,Compact grey deposit S. of 2306 and E. of 2278,2015
+2370,2443,Covers,Loose brown silty deposit S. of wall SU 2256,2015
+2272,2445,Covers,Deposit of brown soil beneath floor preparation 2272,2015
+2256,2420,Covers,Yellowish grey silty deposit with frequent stone inclusions W. of 2256,2015
+2374,2447,Covers,Brown silty deposit along W. limit of 2015 Area C,2015
+2447,2452,Covers,Fill of cut 2453 along W. 2015 excavation limit,2015
+2451,2457,Covers,Linear deposit of loose brown soil W. of 2434,2015
+2446,2458,Covers,Loose brown silty deposit NW of 2434,2015
+2390,2449,Covers,Fill of cut 2450 in SW corner of courtyard,2015
+2475,2480,Covers,Nearly whole vessel N. of 2437 and S. of block 2436,2015
+2457,2458,Covers,Loose brown silty deposit NW of 2434,2015
+2458,2462,Covers,Compact yellow deposit in eastern part of courtyard,2015
+2320,2459,Covers,Light brown silty deposit with stone inclusions in E. half of Room C1,2015
+2459,2464,Covers,Compact brown deposit with frequent red tufo inclusions E. of floor 2253 in W. part of Room C1,2015
+2448,2460,Covers,Light brown compact deposit in SE corner of area,2015
+2460,2465,Covers,"Light brown compact deposit E. of wall 2276, running beneath wall 2306, =2460",2015
+2461,2447,Covers,Brown silty deposit along W. limit of 2015 Area C,2015
+2246,2461,Covers,Brown silty deposit W. of 2378 along 2015 excavation limit,2015
+2462,2492,Covers,"Loose brown silty deposit with large stone, tile and red tufo inclusions in center of courtyard",2015
+2386,2398,Covers,Brown silty deposit with frequent stone inclusions W. of wall 2256,2015
+2464,2468,Covers,Light yellowish brown silty deposit in E. part of Room C1,2015
+2465,2476,Covers,"Compact brownish yellow deposit S. of walls 2355, 2306, E. of wall 2276, = 2472",2015
+2466,2472,Covers,"Compact yellowish-grey deposit N. of 2306 and S. of 2437, = 2476",2015
+2466,2475,Covers,"Yellowish-light brown silty deposit N. of 2437 in S. part of courtyard, fills SU 2482",2015
+2465,2466,Covers,Brown silty deposit with frequent stone and ceramic inclusions W. of 2437,2015
+2442,2466,Covers,Brown silty deposit with frequent stone and ceramic inclusions W. of 2437,2015
+2438,2467,Covers,Friable greyish yellow deposit S. of 2260,2015
+2467,2471,Covers,compact grey deposit south of 2274,2015
+2468,2485,Covers,Compact yellow deposit in Room C1,2015
+2460,2469,Covers,Reddish-yellow compact deposit in S. part of Room C8,2015
+2477,2487,Covers,Compact brown deposit W. of 2245 in E. part of courtyard,2015
+2406,2470,Covers,"Loose red and yellow deposit S. and E. of wall(s) 2260, fill of cut 2473",2015
+2472,2476,Covers,"Compact brownish yellow deposit S. of walls 2355, 2306, E. of wall 2276, = 2472",2015
+2435,2475,Covers,"Yellowish-light brown silty deposit N. of 2437 in S. part of courtyard, fills SU 2482",2015
+2475,2483,Covers,Collapse of stones W. of 2437 along cut 2382,2015
+2469,2476,Covers,"Compact brownish yellow deposit S. of walls 2355, 2306, E. of wall 2276, = 2472",2015
+2462,2478,Covers,"Fill of circular cut 2479, W. of wall 2245 in courtyard",2015
+2462,2481,Covers,Horizontally deposited tile in SW corner of courtyard,2015
+2482,2489,Covers,W. circular cut within linear cut 2482,2015
+2482,2490,Covers,E. circular cut within linear cut 2482,2015
+2484,2437,Covers,"Linear deposit of stones running E-W, N. of 2306=2484",2015
+2469,2486,Covers,"Compact brown layer S. of wall"" 2355 in Room C8""",2015
+2487,2500,Covers,"Compact grey deposit with stone inclusions, = 2487",2015
+2445,2488,Covers,Compact grey deposit N. of 2260,2015
+2490,2489,Covers,W. circular cut within linear cut 2482,2015
+2472,2491,Covers,N.-S. Deposit of stones S. of 2437,2015
+2415,2495,Covers,E.-W. wall of red tufo W. of 2261 in SW corner of 2015 Area C,2015
+4036,2497,Covers,"Pi shaped deposit of stones in E. part of Room C1, =4047",2015
+2462,2500,Covers,"Compact grey deposit with stone inclusions, = 2487",2015
+2351,2387,Covers,"Grey silty deposit N of 2274, = 2388",2015
+2325,2388,Covers,"Grey silty deposit N of 2274, = 2387",2015
+2380,2392,Covers,"Compact grey deposit in N. part of courtyard, S. of drainage channel 2206 ",2015
+2394,2433,Covers,Compact light brown deposit NW of 2256,2015
+2396,2477,Covers,Compact light brown layer with frequent stone inclusions W. of 2245 in E. part of courtyard,2015
+2398,2440,Covers,Loose brown silty deposit W. of wall 2256,2015
+2398,2436,Covers,Worked tufo block/slab in SE corner of courtyard W. of 2256,2015
+0,2415,Covers,Loose silty grey deposit N. of 2411,2015
+2419,2411,Covers,Compact floor deposit S. of 2261,2015
+0,2423,Covers,"Grey silty deposit, = 2415 N. of 2261",2015
+2423,2448,Covers,Compact grey deposit S. of 2306 and E. of 2278,2015
+2425,2411,Covers,Compact floor deposit S. of 2261,2015
+2429,2488,Covers,Compact grey deposit N. of 2260,2015
+2429,2466,Covers,Brown silty deposit with frequent stone and ceramic inclusions W. of 2437,2015
+0,2431,Covers,"Light brown silty deposit in SE corner of area, = 2415 and 2423",2015
+2431,2460,Covers,Light brown compact deposit in SE corner of area,2015
+2258,2434,Covers,Single worked stone E. of 2306,2015
+2434,2422,Covers,Compact deposit with frequent red tufo E. of 2276,2015
+2253,2383,Covers,Silty brown deposit W. of wall 2256,2015
+2426,2393,Abuts,"E-W linear deposit of stones S. of 2394, W. of 2245",2015
+2430,2394,Abuts,"E-W linear deposit of stones N. of 2393, W. of 2245",2015
+2456,2436,Abuts,Worked tufo block/slab in SE corner of courtyard W. of 2256,2015
+2441,2437,Abuts,"Linear deposit of stones running E-W, N. of 2306=2484",2015
+2420,2436,Abuts,Worked tufo block/slab in SE corner of courtyard W. of 2256,2015
+2435,2436,Abuts,Worked tufo block/slab in SE corner of courtyard W. of 2256,2015
+2420,2444,Abuts,Deposit of basalt stones W. of wall 2256,2015
+2444,2455,Abuts,N. tufo blocks beneath wall 2256,2015
+2462,2396,Abuts,"E-W linear deposit of stones E. of 2395, W. of 2245",2015
+2488,2454,Abuts,Single worked tufo block N. of 2260 along W. limit of 2015 area C,2015
+2486,2456,Abuts,"S. tufo blocks beneath wall 2256, E. of 2436",2015
+2472,2437,Abuts,"Linear deposit of stones running E-W, N. of 2306=2484",2015
+2472,2484,Abuts,"E.-W. Linear deposit of stones in S. part of courtyard, E. of 2437, =2437",2015
+2475,2436,Abuts,Worked tufo block/slab in SE corner of courtyard W. of 2256,2015
+2476,2496,Abuts,"E.-W. Running deposit of basalt stones S. of wall"" 2355""",2015
+2485,2497,Abuts,"Pi shaped deposit of stones in E. part of Room C1, =4047",2015
+2486,2496,Abuts,"E.-W. Running deposit of basalt stones S. of wall"" 2355""",2015
+2407,2408,Fills,Cut filled by 2407 in SE corner of area,2015
+2427,2428,Fills,Cut filled by SU 2427 in SW corner of area,2015
+2430,2432,Fills,"Cut filled by 2430, NW of 2256. Foundation cut for linear feature 2393",2015
+2449,2450,Fills,Circular cut filled by 2449,2015
+2452,2453,Fills,Cut filled by 2452,2015
+2470,2473,Fills,"Cut filled by 2470, S. and E. of wall 2260",2015
+2478,2479,Fills,"Circular cut filled by 2478, W of wall 2245",2015
+2475,2482,Fills,"Linear cut filled by 2475, N. of 2437",2015
+2492,2493,Fills,Cut filled by 2492 in center of courtyard,2015
+2492,2499,Fills,"Circular cut S. of 2493, filled by 2492",2015
+2475,2489,Fills,W. circular cut within linear cut 2482,2015
+2475,2490,Fills,E. circular cut within linear cut 2482,2015
+2494,2498,Fills,Circular cut filled by 2494,2015
+2656,2482,Equals,"Linear cut filled by 2475, N. of 2437",2015
+2663,2436,Abuts,Worked tufo block/slab in SE corner of courtyard W. of 2256,2015
+2675,2436,Abuts,Worked tufo block/slab in SE corner of courtyard W. of 2256,2015
+2411,2502,Abuts,N-S wall of red tufo S. of wall 2501 and W. of 2503 in S. part of area,2016
+2411,2503,Abuts,N-S running wall S. of wall 2501 and E. of wall 2502 in S. part of area,2016
+2213,2504,Covers,Brown silty deposit in NW corner of area beneath floor surface 2213,2016
+2253,2506,Covers,Compact light brown deposit beneath floor 2253.,2016
+2506,2510,Covers,Compact light brown deposit N. of wall 2240 in Room C1,2016
+2393,2513,Equals,"Linear feature of tufo and travertine, N. of 2240, S. of 2514",2016
+2394,2514,Equals,Linear feature of tufo N. of 2513 in Room 1,2016
+2511,2512,Covers,Loose brown deposit between linear features 2513 and 2514,2016
+2510,2511,Covers,"Light grey compact deposit, N of wall 2240, in SW corner of Room C1",2016
+2511,2518,Covers,"Compact light grey deposit  N. of 2240, S. of 2513",2016
+2518,2520,Covers,Compact brown deposit S. of 2513 and N. of 2240,2016
+2515,2522,Fills,Linear cut filled by SU 2515 running E-W along wall 2239,2016
+2521,2523,Covers,"Compact brown deposit with orange and black inclusions, S. of 2239, N.of 2514",2016
+2516,2529,Fills,Rectangular cut filled by 2516 E. of wall 2245,2016
+2531,2513,Abuts,"Linear feature of tufo and travertine, N. of 2240, S. of 2514",2016
+2520,2531,Covers,Compact light brown deposit S. of 2513 and N. of 2240,2016
+2524,2528,Covers,Compact grey deposit in SW half of courtyard,2016
+2523,2532,Covers,Compact brown deposit S. of wall 2239,2016
+2523,2533,Covers,Compact grey deposit with orange and black inclusions in the center of room C1,2016
+2607,2633,Covers,Friable gray deposit at E. limit of Room C1,2016
+2513,2538,Covers,"Compact light brown deposit N. of wall 2240, pedestal for 2513 and 2514",2016
+2514,2538,Covers,"Compact light brown deposit N. of wall 2240, pedestal for 2513 and 2514",2016
+2512,2538,Covers,"Compact light brown deposit N. of wall 2240, pedestal for 2513 and 2514",2016
+2538,2544,Covers,"Silty brown deposit N. of 2240, pedestal for 2513 and 2514, under 2538",2016
+2512,2514,Abuts,Linear feature of tufo N. of 2513 in Room 1,2016
+2512,2513,Abuts,"Linear feature of tufo and travertine, N. of 2240, S. of 2514",2016
+2536,2546,Covers,Friable grey-brown deposit S of cut 2493 in center of courtyard,2016
+2536,2549,Covers,Compact gray layer in southeast corner of courtyard.,2016
+2508,2551,Covers,Loose grey silty deposit in Room C9,2016
+2509,2551,Covers,Loose grey silty deposit in Room C9,2016
+2548,2571,Covers,Deposit of loose light brown Soil and stones along W. edge of room C9,2016
+2551,2569,Covers,"Crushed yellow tufo in south part of C9; north of wall 2239, east of wall 2245.",2016
+2542,2552,Covers,Gray silty deposit in NW corner of C9 and NE corner of courtyard,2016
+2509,2552,Covers,Gray silty deposit in NW corner of C9 and NE corner of courtyard,2016
+2551,2562,Covers,"Fill of cut 2565 in NE comer of Room C9, T. 55",2016
+2453,2563,Cuts,Red crushed tufo surface on W edge of courtyard,2016
+2618,2619,Fills,Circular cut filled by SUs 2618 and 2613 in E. part of Room C1,2016
+2562,2564,Covers,"Broken olla, covered by fill 2562, in cut 2565, T. 55",2016
+2564,2566,Covers,"Fill of broken olla, in cut 2565, T. 55",2016
+2411,2501,Abuts,E-W wall of red tufo in S. part of area,2016
+2566,2565,Fills,"Irregular cut in NE comer of Room C9, filled by 2562, T. 55",2016
+2563,2570,Equals,Crushed red tufo in SW corner of coutyard N. and E. of block 2454,2016
+2568,2569,Equals,"Crushed yellow tufo in south part of C9; north of wall 2239, east of wall 2245.",2016
+2571,2572,Covers,Loose brown silty deposit in NW comer of Room C9,2016
+2558,2577,Covers,Loose gray fill of circular cut 2579 with ceramic inclusions in NW corner of courtyard,2016
+2573,2581,Covers,Compact light brown deposit with frequent stone and ceramic inclusions in S part of room C9,2016
+2576,2578,Fills,Circular cut filled by 2576 in W. part of room C9,2016
+2577,2579,Fills,Circular cut filled by 2577 in NW corner of courtyard,2016
+2580,2588,Fills,Circular cut filled by SU 2580 in SW corner of courtyard NE of 2454,2016
+2586,2584,Covers,Compact red surface S. of wall 2378 along W. edge of courtyard,2016
+2552,2558,Covers,Grey silty deposit located in the N half of the courtyard.,2016
+2572,2583,Covers,Compact red crushed deposit along W. limit of room C9,2016
+2578,2583,Cuts,Compact red crushed deposit along W. limit of room C9,2016
+2600,2617,Covers,"Compact gray deposit in NE corner of courtyard, S of wall 2248.",2016
+2550,2555,Covers,"Compact gray deposit in SW corner of courtyard, north of 2454.",2016
+2534,2542,Covers,Loose light brown deposit in NE corner of courtyard W. of wall 2245,2016
+2392,2553,Covers,Silty light brown deposit in NW corner of courtyard S. of 2206,2016
+2552,2587,Covers,Light grey silty deposit W. and N. of 2245,2016
+2579,2585,Cuts,"Compact gray deposit with yellow inclusions in NW corner of courtyard, S of Drainage Channel 2206",2016
+2571,2576,Covers,Fill of circular cut 2578 in W. part of room C9,2016
+2592,2593,Covers,Silty gray and yellow deposit with frequent stone inclusions W. of wall 2245,2016
+2569,2573,Covers,Compact gray deposit in SW corner of Room C9,2016
+2570,2574,Covers,"Loose brown deposit with frequent stone inclusions in  SW corner of courtyard, S. of 2454",2016
+2575,2584,Covers,Compact red surface S. of wall 2378 along W. edge of courtyard,2016
+2588,2589,Cuts,Silty grey deposit in SW part of courtyard South of cut 2588.,2016
+2594,2517,Abuts,Linear deposit of stones E. of wall 2245,2016
+2574,2582,Covers," Compact red deposit in SW corner of courtyard, S of 2454.",2016
+2567,2574,Covers,"Loose brown deposit with frequent stone inclusions in  SW corner of courtyard, S. of 2454",2016
+2541,2550,Covers,Compact light brown deposit in SW part of courtyard.,2016
+2575,2580,Covers,Circular fill of cut 2588 in SW corner of courtyard NE of 2454,2016
+2563,2575,Covers,Compact gray deposit along W. 2016 excavation limit N. of 2454,2016
+2572,2590,Covers,Silty light gray and yellow deposit in NW corner of room C9 and NE corner of courtyard,2016
+2529,2569,Cuts,"Crushed yellow tufo in south part of C9; north of wall 2239, east of wall 2245.",2016
+2477,2568,Covers,Crushed yellow tufo W. of wall 2245,2016
+2570,2575,Covers,Compact gray deposit along W. 2016 excavation limit N. of 2454,2016
+2541,2567,Covers,"Compact yellow deposit, W of 2454, in SW corner of courtyard.",2016
+2561,2574,Covers,"Loose brown deposit with frequent stone inclusions in  SW corner of courtyard, S. of 2454",2016
+2531,2544,Covers,"Silty brown deposit N. of 2240, pedestal for 2513 and 2514, under 2538",2016
+2557,2560,Fills,Cut filled by 2557 NE of 2339,2016
+2560,2558,Cuts,Grey silty deposit located in the N half of the courtyard.,2016
+2596,2617,Covers,"Compact gray deposit in NE corner of courtyard, S of wall 2248.",2016
+2551,2594,Covers,Friable gray deposit E. of wall 2245 in W. part of room C9,2016
+2508,2517,Covers,Linear deposit of stones E. of wall 2245,2016
+2583,2598,Covers,Compact grey linear deposit running N-S in NW corner of room C9,2016
+2598,2600,Covers,Compact gray deposit along W. Limit of room C9,2016
+2597,2602,Covers,Compact light brown deposit N. of 2493.,2016
+2391,2505,Covers,Red compact deposit associated with horizontal deposition of ceramic located in the N-E corner of the courtyard .,2016
+2507,2534,Covers,Compact light brown deposit with yellow inclusions in NE corner of courtyard,2016
+2379,2508,Covers,"Compact deposit with patches of yellow and white soil in S. part of room C9, N. of 2239",2016
+2379,2509,Covers,"Brown silty deposit in NE corner of area S. of 2206, N. of room C9",2016
+2508,2515,Covers,Linear deposit running E-W along wall 2239,2016
+2508,2516,Covers,Rectangular brown deposit E. of wall 2245,2016
+2429,2519,Covers,Compact grey deposit in SW corner of courtyard,2016
+2519,2524,Covers,Compact grey deposit with frequent ceramic inclusions in SW corner of courtyard.,2016
+2510,2521,Covers,Compact Gray deposit N.of 2514,2016
+2522,2569,Cuts,"Crushed yellow tufo in south part of C9; north of wall 2239, east of wall 2245.",2016
+2463,2525,Covers,Compact grey deposit along SW excavation limit of the courtyard,2016
+2392,2526,Covers,Two stones N. of 2339 in N. part of courtyard,2016
+2526,2558,Covers,Grey silty deposit located in the N half of the courtyard.,2016
+2330,2527,Covers,Deposit of stones NE of 2339 in N. part of courtyard,2016
+2527,2557,Covers,"Silty brown deposit with stone and tile inclusions NE of SU 2339, fill of SU 2560",2016
+2528,2535,Covers,Compact grey deposit in SW corner of courtyard,2016
+2528,2543,Covers,Gray compact deposit in central southern portion of courtyard.,2016
+2525,2530,Covers,Loose brown deposit with frequent ceramic inclusions in SW corner of courtyard,2016
+2524,2530,Covers,Loose brown deposit with frequent ceramic inclusions in SW corner of courtyard,2016
+2530,2535,Covers,Compact grey deposit in SW corner of courtyard,2016
+2535,2537,Covers,Compact grey deposit with few visible inclusions in SW corner of courtyard ,2016
+2528,2536,Covers,Compact gray deposit in SE corner of courtyard,2016
+2537,2541,Covers,Loose brown silty deposit in SW corner of courtyard,2016
+2537,2556,Covers,Compact light gray deposit in SW corner of courtyard,2016
+2379,2539,Covers,"Compact gray deposit in NW corner of Room C9, surrounding feature 2296",2016
+2504,2540,Covers,Compact yellow deposit in NW corner of courtyard,2016
+2540,2554,Covers,Compact light brown deposit with red inclusions in NW corner of area,2016
+2553,2558,Covers,Grey silty deposit located in the N half of the courtyard.,2016
+2541,2561,Covers,Light brown accumulation with frequent tufo illusions N of wall 2260 ,2016
+2543,2547,Covers,Silty gray brown deposition in SE part of courtyard,2016
+2472,2545,Covers,Loose light brown silty deposit in Southern part of courtyard North of 2306,2016
+2547,2556,Covers,Compact light gray deposit in SW corner of courtyard,2016
+2296,2548,Covers,"Loose red and yellow deposit covered by hearth"" 2296""",2016
+2558,2572,Covers,Loose brown silty deposit in NW comer of Room C9,2016
+2554,2585,Covers,"Compact gray deposit with yellow inclusions in NW corner of courtyard, S of Drainage Channel 2206",2016
+2555,2563,Covers,Red crushed tufo surface on W edge of courtyard,2016
+2555,2570,Covers,Crushed red tufo in SW corner of coutyard N. and E. of block 2454,2016
+2589,2591,Covers,Concentration of stones around cut 2588,2016
+2559,2575,Covers,Compact gray deposit along W. 2016 excavation limit N. of 2454,2016
+2559,2585,Covers,"Compact gray deposit with yellow inclusions in NW corner of courtyard, S of Drainage Channel 2206",2016
+2447,2559,Covers,Compact dark  grey deposit in NW corner of courtyard,2016
+2532,2607,Covers,Compact yellowish-gray deposit in E. half of room 1,2016
+2533,2607,Covers,Compact yellowish-gray deposit in E. half of room 1,2016
+2605,2610,Fills,"Circular cut filled by 2605 N. of 2493, W. of 2611",2016
+2606,2611,Fills,"Circular cut filled by 2606, N. of 2493, E.of 2610",2016
+2604,2612,Fills,Oval cut filled by SU 2604 in W. part of Room C9,2016
+2613,2618,Covers,Clayey deposit within cut 2619,2016
+2614,2621,Fills,"Circular cut filled by SU 2614 in E part of Room C1, S. of 2619",2016
+2615,2620,Fills,Circular cut filled by SU 2615 W of Room C1,2016
+2622,2624,Covers,Compact clay deposit in cut 2623 covered by 2622,2016
+2617,2616,Covers,Compact gray deposit in W. part of C1  and E. part of Courtyard.,2016
+2612,2616,Cuts,Compact gray deposit in W. part of C1  and E. part of Courtyard.,2016
+2624,2626,Covers,"Dark brown loose deposit in cut 2623, covered by 2624",2016
+2616,2634,Covers,"Compact brownish-gray deposit in NW corner of room C9, E. of wall 2248",2016
+2634,2641,Covers,Light brown compact deposit E. of wall 2249 in NW corner of Room C9,2016
+2634,2643,Covers,"Friable gray deposit in NE corner of Room C9, S. of 2206",2016
+2643,2645,Covers,Light brown compact layer E. of 2217 in NE corner of room C9,2016
+2646,2631,Covers,Light brown friable deposit in SE quadrant of courtyard.,2016
+2644,2647,Fills,Circular cut filled by SU 2644 in E. part of Room C1 S. of 2621,2016
+2633,2648,Covers,Compact grey deposit at E. limit of Room C1,2016
+2649,2631,Equals,Light brown friable deposit in SE quadrant of courtyard.,2016
+2633,2651,Covers,"Brown circular deposit in E. part of room C1, E. of 2621.",2016
+2651,2653,Fills,"Circular cut with irregular bottom filled by 2651, in E part of Room C1 ",2016
+2482,2650,Cuts,"Friable grayish brown deposit with stone inclusions of the SE corner of courtyard, W. of block 2436.",2016
+2650,2646,Covers,Loose light gray deposit in S. part of courtyard S. of cut 2482,2016
+2652,2655,Equals,Layer of collapse with stone inclusions W. of 2493 and E. of 2628,2016
+2655,2631,Covers,Light brown friable deposit in SE quadrant of courtyard.,2016
+2652,2631,Covers,Light brown friable deposit in SE quadrant of courtyard.,2016
+2654,2649,Equals,Compact gray deposit in W. half of courtyard E. of 2628,2016
+2656,2599,Cuts,Compact deposit with frequent orange and white inclusions in Southern half of courtyard ,2016
+2475,2656,Fills,Rectangular cut in SE corner of courtyard,2016
+2658,2628,Abuts,Semi-circular deposit of stones at W. side of courtyard,2016
+2657,2659,Fills,Circular cut filled by 2657 N. of 2628 and W. of 2610,2016
+2568,2592,Covers,Compact gray deposit running along wall 2245,2016
+2585,2595,Covers,"Compact light grey deposit in NW part of courtyard, S. of 2206",2016
+2331,2586,Covers,Light brown silty deposit east of wall 2378.,2016
+2587,2598,Covers,Compact grey linear deposit running N-S in NW corner of room C9,2016
+2590,2600,Covers,Compact gray deposit along W. Limit of room C9,2016
+2593,2601,Covers,Deposit of crushed gray tufo W. of wall 2245.,2016
+2593,2603,Covers,"Loose gray deposit with frequent stone inclusions, W of wall 2245",2016
+2593,2608,Covers,Dark grayish-yellow silty deposit along E. limit of room C1,2016
+2594,2598,Covers,Compact grey linear deposit running N-S in NW corner of room C9,2016
+2595,2617,Covers,"Compact gray deposit in NE corner of courtyard, S of wall 2248.",2016
+2558,2596,Covers,Silty grey deposit in NE corner of courtyard,2016
+2536,2597,Covers,Silty brown deposit N. of cut 2493 in center of courtyard,2016
+2659,2599,Cuts,Compact deposit with frequent orange and white inclusions in Southern half of courtyard ,2016
+2528,2657,Covers,Circular deposit in courtyard North of 2628 and West of 2610,2016
+2654,2599,Covers,Compact deposit with frequent orange and white inclusions in Southern half of courtyard ,2016
+2652,2599,Covers,Compact deposit with frequent orange and white inclusions in Southern half of courtyard ,2016
+2610,2654,Cuts,Compact gray deposit N. of 2493 in center of courtyard,2016
+2611,2599,Cuts,Compact deposit with frequent orange and white inclusions in Southern half of courtyard ,2016
+2600,2604,Covers,"Loose brown fill of oval cut in  NE corner of courtyard, on W. edge of Room C9",2016
+2602,2605,Covers,"Fill of circular cut N. of 2493, W. of 2606",2016
+2500,2606,Covers,"Fill of circular cut N. of 2493, E. of 2605",2016
+2607,2637,Covers,SE-NW alignment of stone slabs N. of wall 2240,2016
+2607,2613,Covers,"Oval deposit of loose soil in E. part of room C1, N. of 2614",2016
+2607,2614,Covers,"Circular deposit of loose soil in E. part of Room C1, S. of 2613",2016
+2608,2615,Covers,Circular deposit of loose brown soil W. of Room C1,2016
+2245,2609,Covers,Two basalt stones beneath corner block of walls 2239 and 2245 in room C1,2016
+2609,2569,Covers,"Crushed yellow tufo in south part of C9; north of wall 2239, east of wall 2245.",2016
+2536,2622,Covers,"Circular deposit E.of 2493, fill of 2623",2016
+2626,2623,Fills,"Circular cut filled by SU 2622, 2624, & 2626, E. of 2493",2016
+2533,2625,Covers,Dark gray friable deposit in NW corner of Room C1,2016
+2454,2627,Covers,Irregular stone deposit covered by stone block 2454,2016
+2575,2627,Abuts,Irregular stone deposit covered by stone block 2454,2016
+2631,2628,Abuts,Semi-circular deposit of stones at W. side of courtyard,2016
+2608,2629,Covers,Gray friable deposit at NW corner of Room C1,2016
+2631,2599,Covers,Compact deposit with frequent orange and white inclusions in Southern half of courtyard ,2016
+2658,2631,Covers,Light brown friable deposit in SE quadrant of courtyard.,2016
+2240,2632,Abuts,Irregular stones between walls 2240 and 2256.,2016
+2633,2644,Covers,"Loose brown circular deposit in E. part of room C1, S. of 2621",2016
+2485,2633,Covers,Friable gray deposit at E. limit of Room C1,2016
+2607,2635,Covers,"Circular brown deposit in NE corner of room C1, N. of cut 2619",2016
+2635,2642,Covers,"Clayey deposit in cut 2640, covered by 2635 in NE corner of room C1, N. of cut 2619",2016
+2544,2636,Covers,"Irregular stone N. of wall 2240, in S. central part of Room C1",2016
+2416,2638,Covers,SW-NE Alignment of stone slabs running beneath wall 2240,2016
+2544,2638,Covers,SW-NE Alignment of stone slabs running beneath wall 2240,2016
+2416,2639,Covers,"SW-NE aligned stone slab S. of wall 2240, E of 2638",2016
+2642,2640,Fills,"Circular cut filled by 2635, in NE corner of Room C1, N. of cut 2619",2016
+2649,2599,Covers,Compact deposit with frequent orange and white inclusions in Southern half of courtyard ,2016
+2649,2628,Abuts,Semi-circular deposit of stones at W. side of courtyard,2016
+2547,2652,Covers,"Grey compact deposit with many stone inclusions, E. of 2628.",2016
+2652,2628,Abuts,Semi-circular deposit of stones at W. side of courtyard,2016
+2649,2655,Covers,Layer of collapse with stone inclusions W. of 2493 and E. of 2628,2016
+2550,2658,Covers,Compact grayish brown deposit in SW corner of courtyard E. of 2628,2016
+2523,2593,Covers,Silty gray and yellow deposit with frequent stone inclusions W. of wall 2245,2016
+2546,2631,Covers,Light brown friable deposit in SE quadrant of courtyard.,2016
+2549,2631,Covers,Light brown friable deposit in SE quadrant of courtyard.,2016
+2695,2637,Equals,SE-NW alignment of stone slabs N. of wall 2240,2016
+2695,2638,Equals,SW-NE Alignment of stone slabs running beneath wall 2240,2016
+2695,2639,Equals,"SW-NE aligned stone slab S. of wall 2240, E of 2638",2016
+2710,2599,Covers,Compact deposit with frequent orange and white inclusions in Southern half of courtyard ,2016
+2721,2599,Covers,Compact deposit with frequent orange and white inclusions in Southern half of courtyard ,2016
+2725,2563,Cuts,Red crushed tufo surface on W edge of courtyard,2016
+2769,2599,Equals,Compact deposit with frequent orange and white inclusions in Southern half of courtyard ,2016
+2505,2507,Covers,Horizontal deposition of ceramics in NE part of courtyard S. of 2206.,2016
+2703,2744,Covers,Friable gray deposit in SE corner of courtyard N. of 2436,2017
+2769,2774,Covers,Loose fill of circular cut in western south central part of courtyard,2017
+2691,2693,Fills,"Circular cut filled by 2691, N. of cut 2339",2017
+2752,2753,Covers,"Circular black fill with orange inclusions as well as visible stone inclusions, fill of 2751.",2017
+2434,2660,Covers,Pedestal beneath stone 2434,2017
+2206,2661,Cuts,Red tufo block running beneath floor 2178 in W. part of area C (2011 extension),2017
+2545,2662,Covers,Compact grey deposit N. of wall 2306,2017
+2673,2689,Covers,Compact gray deposit N. of cut 2339,2017
+2665,2666,Fills,Circular cut S .of 2339 filled by 2665,2017
+2669,2675,Covers,Compact light gray deposit S. Of 2436,2017
+2584,2674,Covers,"Light brown friable deposit N. Of wall 2628.
+",2017
+2674,2678,Covers,Loose light brown deposit N. of wall 2628. fill of 2679,2017
+2675,2676,Covers,Loose brown deposit with frequent stone and ceramic inclusions S. of 2436,2017
+2678,2679,Fills,Circular cut filled by 2678 N. of wall 2628,2017
+2667,2683,Covers,Friable light brown deposit W. of wall 2245,2017
+2663,2664,Covers,Compact light brown deposit S.of block 2436 W. of 2256,2017
+2650,2663,Covers,Grayish-brown loose deposit W. of 2256 and S. of 2436,2017
+2664,2669,Covers,Compact light grayish brown deposit S. of 2436,2017
+2666,2680,Cuts,Compact gray deposit S. of cut 2339,2017
+2593,2667,Covers,Friable grayish-brown deposit with frequent stone inclusions W. of 2245,2017
+2631,2668,Covers,Compact brownish gray deposit north of 2274.,2017
+2561,2668,Covers,Compact brownish gray deposit north of 2274.,2017
+2617,2670,Covers,Compact  light brown deposit in NE corner of courtyard,2017
+2550,2671,Covers,Loose light brown fill of cut 2672 W. of wall,2017
+2671,2672,Fills,Circular cut west of wall 2628 filled by 2671,2017
+2579,2673,Cuts,Orange and black friable deposit in the north part of courtyard,2017
+2498,2682,Cuts,Compact gray deposit in eastern part if courtyard. west of cut 2620.,2017
+2620,2682,Cuts,Compact gray deposit in eastern part if courtyard. west of cut 2620.,2017
+2585,2684,Covers,Compact Light Brown deposit along NW excavation limit,2017
+2638,2685,Cuts,Friable light brown deposit with frequent orange inclusions east off 2493,2017
+2240,2686,Covers,Pedestal beneath wall 2240,2017
+2686,2690,Covers,"Compact red-brown deposit beneath 2686, pedestal of wall 2240",2017
+2692,2694,Covers,"Loose brown deposit with orange inclusions, bounded by 2695",2017
+2355,2687,Covers,Pedestal beneath wall 2355,2017
+2687,2692,Covers,"Brown friable deposit, bounded by 2695",2017
+2496,2688,Covers,Pedestal beneath wall 2496,2017
+2688,2692,Covers,"Brown friable deposit, bounded by 2695",2017
+2690,2692,Covers,"Brown friable deposit, bounded by 2695",2017
+2694,2696,Covers,"Compact brown deposit with orange inclusions, bounded by 2695",2017
+2694,2697,Covers,"Loose brownish-yellow deposit, bounded by 2695",2017
+2698,2697,Covers,"Loose brownish-yellow deposit, bounded by 2695",2017
+2697,2699,Covers,"Cluster of stones in SE section of 2700, covered by 2697",2017
+2696,2697,Covers,"Loose brownish-yellow deposit, bounded by 2695",2017
+2697,2700,Fills,Rectangular cut bounded by 2695 in room C8.,2017
+2699,2700,Fills,Rectangular cut bounded by 2695 in room C8.,2017
+2628,2710,Covers,Loose light brown deposit N and E of wall 2628,2017
+2712,2719,Covers,Compact brown gray deposit with stone inclusions at E. edge of courtyard W. of room C 1,2017
+2595,2689,Covers,Compact gray deposit N. of cut 2339,2017
+2689,2711,Covers,Compact light brown deposit in NE quadrant of courtyard.,2017
+2595,2691,Covers,Loose brown circular deposit N. of cut 2339,2017
+2656,2681,Cuts,Friable. Light brown. Deposit at S. edge of courtyard N. of 2274 and 2306.,2017
+2482,2681,Cuts,Friable. Light brown. Deposit at S. edge of courtyard N. of 2274 and 2306.,2017
+2669,2681,Covers,Friable. Light brown. Deposit at S. edge of courtyard N. of 2274 and 2306.,2017
+2662,2681,Covers,Friable. Light brown. Deposit at S. edge of courtyard N. of 2274 and 2306.,2017
+2682,2712,Covers,Compact brownish-gray deposit at eastern edge of courtyard W. of Room C1,2017
+2500,2682,Covers,Compact gray deposit in eastern part if courtyard. west of cut 2620.,2017
+2685,2712,Covers,Compact brownish-gray deposit at eastern edge of courtyard W. of Room C1,2017
+2536,2685,Covers,Friable light brown deposit with frequent orange inclusions east off 2493,2017
+2693,2689,Cuts,Compact gray deposit N. of cut 2339,2017
+2416,2695,Covers,"Upright stone slabs lining feature, equal to 2637, 2638, 2639",2017
+2512,2695,Covers,"Upright stone slabs lining feature, equal to 2637, 2638, 2639",2017
+2694,2698,Covers,Large Stone at NW section of 2700 covers 2697.,2017
+2700,2702,Cuts,"Irregular cut in W side of 2700 , undercutting 2695",2017
+2700,2701,Cuts,Irregular Cut in NW corner of 2700 undercutting 2695.,2017
+2536,2703,Covers,Friable red deposit N. of 2436 in SE corner of courtyard,2017
+2668,2704,Covers,Friable light brown deposit in SW corner of courtyard running beneath collapsed stones of 2628,2017
+2704,2708,Covers,Compact light brown deposit in SW corner of courtyard E. of 2454,2017
+2628,2704,Covers,Friable light brown deposit in SW corner of courtyard running beneath collapsed stones of 2628,2017
+2674,2705,Covers,Light brown compact deposit west of 2628 along western edge of courtyard,2017
+2536,2706,Covers,"Loose brown circular deposit in SE corner of courtyard, fill of 2707",2017
+2706,2707,Fills,Circular cut in SE corner of courtyard filled by 2706,2017
+2536,2709,Covers,Compact brownish gray deposit with orange inclusions N. of 2436 along E. limit of courtyard,2017
+2655,2710,Covers,Loose light brown deposit N and E of wall 2628,2017
+2386,2713,Covers,"Loose brown circular deposit at NW of 2599, S. of 2714",2017
+2713,2717,Fills,"Circular cut filled by 2713, S. of 2718",2017
+2386,2714,Covers,"Loose brown circular deposit at NW of 2599, N. of 2713",2017
+2714,2718,Fills,"Circular cut filled by 2714, N. of 2717",2017
+2708,2715,Covers,Friable yellow brown compact deposit in SW corner of courtyard,2017
+2708,2716,Covers,Compact gray deposit N. of 2715 in SW corner of courtyard,2017
+2711,2720,Covers,Compact gray deposit in N quadrant of courtyard,2017
+2726,2727,Fills,Irregular cut filled by 2726 within 2725,2017
+2727,2725,Cuts,Linear cut filled by su 2722 at W. limit of courtyard,2017
+2612,2728,Cuts,Friable dark gray deposit in NE corner of courtyard,2017
+2722,2725,Fills,Linear cut filled by su 2722 at W. limit of courtyard,2017
+2719,2721,Covers,Light brown  compact deposit E. of cut 2493,2017
+2670,2723,Covers,Compact brownish gray depositing SW corner of Courtyard,2017
+2723,2728,Covers,Friable dark gray deposit in NE corner of courtyard,2017
+2715,2724,Covers,Gray brown compact deposit in SW corner of courtyard,2017
+2582,2724,Covers,Gray brown compact deposit in SW corner of courtyard,2017
+2722,2726,Covers,"Loose circular light brown deposit within 2725, fills 2727",2017
+2729,2733,Covers,Light yellowish gray compact deposit with stone inclusions N. of 2725,2017
+2720,2731,Covers,Loose brownish gray deposit with frequent stone and ceramic inclusions in NW corner of courtyard,2017
+2575,2722,Covers,Friable red linear deposit at W. Limit of courtyard S. of blocks 2378,2017
+2620,2738,Cuts,Friable brown deposit at limit of courtyard,2017
+2725,2729,Cuts,Friable gray deposit at W. limit of courtyard N of 2725,2017
+2724,2730,Covers,Light gray brown friable deposit at W. side of courtyard N. of block 2454,2017
+2716,2730,Covers,Light gray brown friable deposit at W. side of courtyard N. of block 2454,2017
+2710,2730,Covers,Light gray brown friable deposit at W. side of courtyard N. of block 2454,2017
+2705,2730,Covers,Light gray brown friable deposit at W. side of courtyard N. of block 2454,2017
+2672,2730,Cuts,Light gray brown friable deposit at W. side of courtyard N. of block 2454,2017
+2728,2732,Covers,Friable light brown deposit W. of wall 2245,2017
+2719,2732,Covers,Friable light brown deposit W. of wall 2245,2017
+2725,2733,Cuts,Light yellowish gray compact deposit with stone inclusions N. of 2725,2017
+2710,2734,Covers,Compact red deposit with frequent stone inclusions S . of 2725,2017
+2705,2734,Covers,Compact red deposit with frequent stone inclusions S . of 2725,2017
+2725,2737,Cuts,"Linear cut, E of 2725 in W area of courtyard filled by 2735",2017
+2659,2734,Cuts,Compact red deposit with frequent stone inclusions S . of 2725,2017
+2679,2734,Cuts,Compact red deposit with frequent stone inclusions S . of 2725,2017
+2725,2735,Cuts,"Friable brown linear deposit E. of 2725, in W area of courtyard, fill of 2737",2017
+2735,2737,Fills,"Linear cut, E of 2725 in W area of courtyard filled by 2735",2017
+2742,2744,Covers,Friable gray deposit in SE corner of courtyard N. of 2436,2017
+2743,2747,Fills,Irregular cut in SW corner of courtyard filled by 2743,2017
+2744,2749,Covers,"Soft black and orange deposit with charcoal inclusions at E. Limit of courtyard, fill of 2751",2017
+2677,2712,Covers,Compact brownish-gray deposit at eastern edge of courtyard W. of Room C1,2017
+2498,2754,Cuts,Friable brown deposit at the eastern limit of courtyard E. of cut 2493,2017
+2623,2754,Cuts,Friable brown deposit at the eastern limit of courtyard E. of cut 2493,2017
+2602,2677,Covers,Compact light brown deposit N. of 2498 and 2611,2017
+2753,2755,Covers,Deposit of stones within cut 2751,2017
+2755,2751,Fills,"Circular cut at eastern limit of courtyard, filled by 2749 , 2753, 2755, 2758",2017
+2749,2753,Covers,"Circular black fill with orange inclusions as well as visible stone inclusions, fill of 2751.",2017
+2755,2758,Covers,"Circular black deposit beneath stones 2755, fill of cut 2751",2017
+2730,2736,Covers,Compat gray-brown deposit in SW corner of courtyard,2017
+2719,2738,Covers,Friable brown deposit at limit of courtyard,2017
+2739,2748,Covers,Friable brown deposit with orange and gray patches in NW corner of courtyard,2017
+2731,2739,Covers,Friable brown deposit in NE corner of courtyard,2017
+2711,2739,Covers,Friable brown deposit in NE corner of courtyard,2017
+2596,2739,Covers,Friable brown deposit in NE corner of courtyard,2017
+2740,2744,Covers,Friable gray deposit in SE corner of courtyard N. of 2436,2017
+2536,2740,NULL,Compact gray deposit N. of block 2436 and W. of wall 2256,2017
+2748,2759,Equals,"Broken vessel and fill N of 2725 ,=2748",2017
+2759,2748,Equals,Friable brown deposit with orange and gray patches in NW corner of courtyard,2017
+2724,2741,Covers,Friable gray-brown deposit in SW corner of area E. of 2454,2017
+2712,2742,Covers,"Soft silty deposit with black, orange, and white inclusions at E. Edge of courtyard",2017
+2709,2742,Covers,"Soft silty deposit with black, orange, and white inclusions at E. Edge of courtyard",2017
+2724,2743,Covers,Brown gray loose deposit at SW corner of courtyard. Fill of 2747. ,2017
+2730,2745,Covers,Compact gray deposit in SW corner of courtyard area E. of block 2436,2017
+2669,2746,Covers,Compact gray deposit with frequent ceramic inclusions S. Of block 2436,2017
+2744,2750,Covers,Compact grayish-brown deposit in SE corner of courtyard W. of 2436,2017
+2681,2750,Covers,Compact grayish-brown deposit in SE corner of courtyard W. of 2436,2017
+2656,2760,Cuts,"Compact, linear, light brown deposit running N-S in SE corner of courtyard.",2017
+2758,2751,Fills,"Circular cut at eastern limit of courtyard, filled by 2749 , 2753, 2755, 2758",2017
+2536,2752,Covers,Triangular section of 2017 excavation baulk N. of wall 2240 removed to reveal the full extent of at 2751,2017
+2544,2752,Covers,Triangular section of 2017 excavation baulk N. of wall 2240 removed to reveal the full extent of at 2751,2017
+2719,2754,Covers,Friable brown deposit at the eastern limit of courtyard E. of cut 2493,2017
+2756,2757,Covers,"Fill of Special Find 2140, below 2756, from SU",2017
+2694,2756,Covers,"Fill of Special Find 2140, covers 2757 in SU",2017
+2757,2697,Covers,"Loose brownish-yellow deposit, bounded by 2695",2017
+2599,2769,Equals,Red crumbled tufo surface in S. courtyard,2017
+2770,2771,Fills,Small hole filled by 2770 W. of 2769 ,2017
+2774,2776,Fills,Circular cut in central courtyard filled by 2774,2017
+2768,2777,Covers,Semi circular red crushed tufo deposit in center of courtyard S. and E. of cut 2339,2017
+2721,2760,Covers,"Compact, linear, light brown deposit running N-S in SE corner of courtyard.",2017
+2750,2760,Covers,"Compact, linear, light brown deposit running N-S in SE corner of courtyard.",2017
+2730,2761,Covers,Rocky orangish light brown compact deposit in the southwest corner of courtyard.,2017
+2738,2762,Covers,Friable brown deposit at edge of courtyard adjacent to room C1,2017
+2763,2769,Covers,Red crumbled tufo surface in S. courtyard,2017
+2708,2763,Covers,Light brownish gray friable deposit in South Central part of courtyard.,2017
+2646,2763,Covers,Light brownish gray friable deposit in South Central part of courtyard.,2017
+2748,2764,Covers,Light gray crumbly deposit N. of cut 2737 in W. area of courtyard.,2017
+2670,2765,Covers,Brown friable deposit in NE corner of courtyard,2017
+2748,2766,Covers,Friable gray deposit with frequent stone inclusions in NW corner of coourtyard.,2017
+2763,2767,Covers,Friable red deposit with frequent basalt pebble inclusions in southwestern central part of courtyard,2017
+2767,2773,Covers,Red crumbled tufo surface with orange and black inclusions N. of 2306,2017
+2715,2767,Covers,Friable red deposit with frequent basalt pebble inclusions in southwestern central part of courtyard,2017
+2646,2769,Covers,Red crumbled tufo surface in S. courtyard,2017
+2708,2770,Covers,Loose brown circular deposit W. of 2767,2017
+2737,2772,Cuts,Red crushed tufo deposit E. of 2725,2017
+2734,2772,Covers,Red crushed tufo deposit E. of 2725,2017
+2777,2781,Covers,Friable brownish-gray deposit SE of cut 2339,2017
+2778,2779,Fills,"Small circular cut in center of courtyard, S. of 2339",2017
+2772,2782,Covers,Very compact gray deposit in center of courtyard S. of cut 2339,2017
+2779,2782,Cuts,Very compact gray deposit in center of courtyard S. of cut 2339,2017
+2602,2768,Covers,Friable brown deposit in center of courtyard,2017
+2732,2768,Covers,Friable brown deposit in center of courtyard,2017
+2728,2768,Covers,Friable brown deposit in center of courtyard,2017
+2769,2775,Covers,Compact brownish gray deposit in western South central part of courtyard,2017
+2775,2773,Covers,Red crumbled tufo surface with orange and black inclusions N. of 2306,2017
+2775,2780,Covers,Compact gray deposit with basalt pebble inclusions in south central part of courtyard,2017
+2786,2788,Covers,"Compact grayish-brown deposit in SE corner of area, W of 2436",2017
+2783,2787,Covers,Friable brown deposit in western South Central part of courtyard,2017
+2386,2778,Covers,Loose Brown circular deposit in center of courtyard S. of 2339,2017
+2775,2783,Covers,Linear deposit of travertine pebbles in western south central part of courtyard,2017
+2772,2784,Covers,Friable brownish gray deposit running N-S near W. limit of courtyard F. of 2454,2017
+2672,2784,Cuts,Friable brownish gray deposit running N-S near W. limit of courtyard F. of 2454,2017
+2739,2785,Covers,Loose brown deposit with moderate stone inclusions in NE corner of courtyard,2017
+2786,2789,Covers,Friable grayish-brown linear deposit with stone inclusions in SE part of area,2017
+2790,2792,Fills,"Ovoid cut in western south central part of courtyard, filled by 2790",2017
+2785,2793,Covers,Loose brown ovoid deposit in eastern North central part of courtyard,2017
+2798,2797,Fills,"Ovoid cut in eastern north central part of courtyard, filled by 2793 and 2798",2017
+2793,2798,Equals,Two stones within cut 2797,2017
+2793,2797,Fills,"Ovoid cut in eastern north central part of courtyard, filled by 2793 and 2798",2017
+2800,2801,Fills,Ovoid cut filled by 2800 in SW area of courtyard,2017
+2804,2805,Fills,"Small circular cut, filled by 2804 in western south central part of courtyard",2017
+2807,2808,Fills,"Small circular cut filled by 2807 in SW corner of courtyard , S. of 2454",2017
+2802,2809,Fills,"Linear cut running N-S of variable depth along W. side of courtyard , filled by 2802",2017
+2750,2786,Covers,Friable brown linear deposit running N-S in SE area of courtyard,2017
+2803,2810,Fills,Linear E-W running cut in western south central part of courtyard filled by 2803,2017
+2814,2816,Covers,Three stones around cut 2815,2017
+2812,2813,Fills,"Circular cut in W. part of 2803 , filled by 2812",2017
+2816,2815,Covers,"Circular cut in E. part of 2803, filled by 2814",2017
+2788,2791,Covers,Compact brownish-gray deposit with frequent orange and yellow tufo inclusions in SE area of courtyard,2017
+2745,2794,Covers,"Friable gray deposit with orange inclusions, N. of 2454 along W. limit of courtyard",2017
+2736,2794,Covers,"Friable gray deposit with orange inclusions, N. of 2454 along W. limit of courtyard",2017
+2676,2746,Covers,Compact gray deposit with frequent ceramic inclusions S. Of block 2436,2017
+2788,2795,Covers,Compact brown deposit with stone inclusions in SE corner of courtyard,2017
+2676,2769,Covers,Red crumbled tufo surface in S. courtyard,2017
+2787,2796,Covers,Compact grayish brown deposit with orange patches in S. central courtyard N. of 2306,2017
+2796,2803,Covers,Linear E-W running deposit in western South central part of courtyard,2017
+2796,2804,Covers,Small circular loose light gray fill of cut 2805 in western south central part of courtyard,2017
+2785,2798,Covers,Two stones within cut 2797,2017
+2747,2799,Cuts,"Friable gray deposit in southwestern corner of courtyard, south of 2454",2017
+2741,2799,Covers,"Friable gray deposit in southwestern corner of courtyard, south of 2454",2017
+2799,2802,Covers,Linear N-S running brown deposit along W. side of courtyard,2017
+2787,2800,Covers,Loose brown ovoid fill of cut 2801 in SW area of courtyard,2017
+2806,2811,Covers,Compact orange deposit in SE corner of courtyard,2017
+2780,2806,Covers,Compact orange deposit in eastern south central part of courtyard,2017
+2724,2807,Covers,"Loose circular fill S. of block 2454 in SW corner of courtyard, fills 2808",2017
+2809,2817,Cuts,Compact gray surface in S half of courtyard,2017
+2810,2817,Cuts,Compact gray surface in S half of courtyard,2017
+2811,2817,Covers,Compact gray surface in S half of courtyard,2017
+2803,2812,Covers,"Shallow circular deposit in W. part. of 2803, fill of 2813",2017
+2803,2814,Covers,"Loose brown circular deposit in E. part of 2803, fills 2815",2017
+2818,2817,Covers,Compact gray surface in S half of courtyard,2017
+2760,2817,Covers,Compact gray surface in S half of courtyard,2017
+2787,2790,Covers,"Loose light gray oval deposit in western South central part of courtyard, fills 2792",2017
+2809,2818,Cuts,"Compact yellow surface in SW corner of courtyard, W. of 2817",2017
+2799,2818,Covers,"Compact yellow surface in SW corner of courtyard, W. of 2817",2017
+2787,2818,Covers,"Compact yellow surface in SW corner of courtyard, W. of 2817",2017
+2684,2731,Covers,Loose brownish gray deposit with frequent stone and ceramic inclusions in NW corner of courtyard,2017
+2683,2728,Covers,Friable dark gray deposit in NE corner of courtyard,2017
+2707,2742,Cuts,"Soft silty deposit with black, orange, and white inclusions at E. Edge of courtyard",2017
+2776,2817,Cuts,Compact gray surface in S half of courtyard,2017
+2754,2760,Covers,"Compact, linear, light brown deposit running N-S in SE corner of courtyard.",2017
+2754,2762,Covers,Friable brown deposit at edge of courtyard adjacent to room C1,2017
+2771,2775,Cuts,Compact brownish gray deposit in western South central part of courtyard,2017
+2761,2775,Covers,Compact brownish gray deposit in western South central part of courtyard,2017
+2761,2784,Covers,Friable brownish gray deposit running N-S near W. limit of courtyard F. of 2454,2017
+2773,2780,Covers,Compact gray deposit with basalt pebble inclusions in south central part of courtyard,2017
+2717,2772,Cuts,Red crushed tufo deposit E. of 2725,2017
+2718,2772,Covers,Red crushed tufo deposit E. of 2725,2017
+2789,2760,Covers,"Compact, linear, light brown deposit running N-S in SE corner of courtyard.",2017
+2791,2795,Covers,Compact brown deposit with stone inclusions in SE corner of courtyard,2017
+2795,2817,Covers,Compact gray surface in S half of courtyard,2017
+2782,2817,Covers,Compact gray surface in S half of courtyard,2017
+2680,2748,Covers,Friable brown deposit with orange and gray patches in NW corner of courtyard,2017
+2784,2787,Covers,Friable brown deposit in western South Central part of courtyard,2017
+2801,2817,Cuts,Compact gray surface in S half of courtyard,2017
+2805,2817,Cuts,Compact gray surface in S half of courtyard,2017
+2792,2817,Cuts,Compact gray surface in S half of courtyard,2017
+2813,2810,Cuts,Linear E-W running cut in western south central part of courtyard filled by 2803,2017
+2821,2822,Fills,"Circular cut NW of block 2436, filled by 2821",2018
+2823,2837,Covers,Compact yellow-gray deposit with frequent crushed tufo inclusions located in SW corner of courtyard,2018
+2830,2831,Fills,"Circular cut, filled by 2830. N of 2248",2018
+2827,2832,Covers,"Loose brown oval deposit in NE quadrant of area, fills 2833",2018
+2832,2835,Covers,Deposit of stones and ceramic within cut 2833,2018
+2835,2833,Fills,"Oval cut in NE quadrant of area, filled by 2832 and 2835",2018
+2843,2846,Covers,"Compact, grey deposit in northwest corner of courtyard. ",2018
+2839,2842,Covers,Compact grayish-yellow deposit with stone and ceramic inclusions in SE corner of courtyard,2018
+2834,2843,Covers,Brown silty deposit with many rock inclusions located in the northwest corner of the courtyard,2018
+2772,2826,Covers,Compact brown deposit along W Limit of courtyard,2018
+2730,2823,Covers,"Compact grayish-yellow deposit in the SW corner of courtyard, E of 2454",2018
+2849,2851,Covers,"Rocky exposed layer of possible curved linear feature, in southeast quadrant of courtyard.
+",2018
+2881,2882,Fills,"Ovoid cut in S. central part of courtyard, filled by 2881",2018
+2822,2852,Cuts,Compact light brown deposit N. of 2436 in SE part of courtyard,2018
+2744,2821,Covers,"Loose brown circular deposit NW of block 2436, fill of 2822",2018
+2824,2829,Covers,Compact grey deposit with three large stones in W. central quadrant of courtyard,2018
+2784,2824,Covers,"Compact, dark brown, clayish, deposit in the W. half of courtyard ",2018
+2818,2825,Covers,"Loose brown deposit in SW corner of the courtyard, S and E of block 2454",2018
+2856,2855,Fills,"Oval cut in SE corner of Courtyard, N of 2436, filled by 2854 and 2856",2018
+2854,2856,Covers,"Compact brown deposit in SE corner of courtyard, N of 2436, fills 2855",2018
+2898,2906,Covers,Friable grayish brown deposit in the southwest quadrant of the courtyard ,2018
+2862,2864,Covers,"Large white travertine stone in circular cut 2863 in SE comer of courtyard, covers 2868",2018
+2864,2868,Covers,"Loose brown circular deposit in SE area of courtyard, covered by 2864",2018
+2865,2866,Fills,"Circular cut in SE area of courtyard, filled by 2865",2018
+2868,2863,Fills,"Circular cut in SE area of courtyard, NW of 2436, filled by 2862, 2864, and 2868.",2018
+2858,2862,Covers,"Circular loose brown deposit in SE area of courtyard NW of 2436, fills  2863",2018
+2875,2881,Covers,"Compact brown ovoid deposit in S. central part of courtyard, fill of 2882",2018
+2883,2884,Fills,"Circular cut in NW corner of courtyard, filled by 2883",2018
+2889,2890,Equals,"Grayish brown compact deposit in SW courtyard, N of 2454",2018
+2890,2892,Covers,Compact brown deposit with orange inclusions along western edge of courtyard,2018
+2887,2851,Covers,"Rocky exposed layer of possible curved linear feature, in southeast quadrant of courtyard.
+",2018
+2895,2896,Fills,"Elliptical cut along E. limit of courtyard, filled by 2895",2018
+2820,2819,Equals,Cleaning layer in the northern half of courtyard at beginning of 2018 season,2018
+2853,2851,Covers,"Rocky exposed layer of possible curved linear feature, in southeast quadrant of courtyard.
+",2018
+2866,2851,Cuts,"Rocky exposed layer of possible curved linear feature, in southeast quadrant of courtyard.
+",2018
+2825,2889,Covers,"Grey compact deposit in the SW corner of courtyard, S of 2454",2018
+2826,2838,Covers,Compact light grayish brown deposit at W. limit of courtyard,2018
+2728,2827,Covers,"Friable, light brown deposit in northeast corner of courtyard",2018
+2765,2828,Covers,Friable brownish grey deposit at NE limit of area,2018
+2829,2859,Covers,Light brown friable deposit in the southwest center of the courtyard.,2018
+2207,2830,Covers,"Loose brown circular deposit, fill of 2831 N of 2248",2018
+2833,2894,Cuts,Brown friable deposit located in the eastern end of courtyard.,2018
+2764,2834,Covers,"Compact brown rectangular deposit at NW limit of courtyard, N. of 2725",2018
+2760,2836,Covers,Linear deposit of light gray soil with frequent stone inclusions SW of wall 2239,2018
+2762,2836,Covers,Linear deposit of light gray soil with frequent stone inclusions SW of wall 2239,2018
+2836,2844,Covers,"Light brown compact deposit with orange & gray inclusions at the E. edge of courtyard,",2018
+2836,2847,Covers,Compact grey deposit at E. limit of courtyard,2018
+2837,2860,Covers,Compact brown accumulation layer with tufo inclusions at southern limit of courtyard,2018
+2837,2886,Covers,Compact dark grayish brown deposit in SW corner of courtyard,2018
+2838,2841,Covers,"Loose grayish-brown deposit with rocky inclusions at. W limit of courtyard, S. of 2725",2018
+2817,2839,Covers,Friable brownish gray deposit with frequent stone inclusions in southeast corner of courtyard,2018
+2776,2840,Covers,Light gray deposit with rocky inclusions in NW corner of courtyard.,2018
+2840,2879,Covers,Friable light brownish gray deposit with ceramic and stone inclusions at NW limit of courtyard,2018
+2842,2860,Covers,Compact brown accumulation layer with tufo inclusions at southern limit of courtyard,2018
+2844,2867,Covers,Loose light brown deposit with frequent stone inclusions at E limit of courtyard,2018
+2822,2845,Cuts,Friable brown deposit in SE area of courtyard.,2018
+2709,2845,Covers,Friable brown deposit in SE area of courtyard.,2018
+2707,2845,Cuts,Friable brown deposit in SE area of courtyard.,2018
+2845,2847,Covers,Compact grey deposit at E. limit of courtyard,2018
+2845,2848,Covers,Compact light brown deposit in SE quadrant of courtyard,2018
+2764,2846,Covers,"Compact, grey deposit in northwest corner of courtyard. ",2018
+2846,2879,Covers,Friable light brownish gray deposit with ceramic and stone inclusions at NW limit of courtyard,2018
+2847,2858,Covers,"Brown friable deposit in SE quadrant of area, N of 2436",2018
+2848,2849,Covers,"Friable light brown linear deposit in SE quadrant of courtyard
+
+",2018
+2817,2850,Covers,Linear yellow-brown slightly compact deposit in center of courtyard NE of cut 2493,2018
+2850,2869,Covers,Silty light brown friable deposit in NE corner of courtyard,2018
+2850,2870,Covers,Compact grayish brown deposit in center of courtyard,2018
+2852,2854,Covers,"Oval loose brown deposit in SE comer of courtyard, N of 2436, fills 2855",2018
+2849,2852,Covers,Compact light brown deposit N. of 2436 in SE part of courtyard,2018
+2853,2876,Covers,"Friable light brown deposit in central area of courtyard, N. of cut 2493",2018
+2836,2853,Covers,Linear deposit of crushed pink tufo with frequent inclusions of rocks at eastern limit of courtyard,2018
+2667,2853,Covers,Linear deposit of crushed pink tufo with frequent inclusions of rocks at eastern limit of courtyard,2018
+2855,2858,Cuts,"Brown friable deposit in SE quadrant of area, N of 2436",2018
+2851,2857,Covers,Grayish brown compact deposit south of 2493,2018
+2837,2857,Covers,Grayish brown compact deposit south of 2493,2018
+2857,2860,Covers,Compact brown accumulation layer with tufo inclusions at southern limit of courtyard,2018
+2860,2872,Covers,Compact grayish brown layer of accumulation with frequent tufo and wattle and daub inclusions in south central courtyard.,2018
+2858,2867,Covers,Loose light brown deposit with frequent stone inclusions at E limit of courtyard,2018
+2859,2861,Covers,Compact brownish grey deposit in W. half of courtyard,2018
+2860,2875,Covers,"Compact brown deposit with frequent tufo, wattle and daub, and ceramic inclusions at S limit of courtyard",2018
+2861,2873,Covers,Compact light gray deposit with frequent small tufo inclusions in W. central area of courtyard.,2018
+2849,2865,Covers,"Loose brown circular deposit in SE area of courtyard, fills 2866",2018
+2867,2895,Covers,Light brown loose circular deposit along E. limit of courtyard,2018
+2869,2885,Covers,Compact orangish-yellow linear deposit running W-E in North-Central area of courtyard,2018
+2869,2894,Covers,Brown friable deposit located in the eastern end of courtyard.,2018
+2826,2870,Covers,Compact grayish brown deposit in center of courtyard,2018
+2870,2876,Covers,"Friable light brown deposit in central area of courtyard, N. of cut 2493",2018
+2860,2871,Covers,Compact light brown deposit with frequent orange inclusions in southeast corner of courtyard.,2018
+2871,2881,Covers,"Compact brown ovoid deposit in S. central part of courtyard, fill of 2882",2018
+2872,2875,Covers,"Compact brown deposit with frequent tufo, wattle and daub, and ceramic inclusions at S limit of courtyard",2018
+2873,2886,Covers,Compact dark grayish brown deposit in SW corner of courtyard,2018
+2873,2890,Covers,"Grayish brown compact deposit in SW courtyard, N of 2454",2018
+2838,2874,Covers,Friable gray deposit with stone inclusions at eastern limit of courtyard. ,2018
+2874,2877,Covers,Compact gray deposit in W central area of courtyard,2018
+2874,2878,Covers,Friable gray deposit  at W central limit of courtyard,2018
+2875,2886,Covers,Compact dark grayish brown deposit in SW corner of courtyard,2018
+2875,2887,Covers,"Light brown deposit in SE corner of courtyard, W of 2436",2018
+2875,2851,Covers,"Rocky exposed layer of possible curved linear feature, in southeast quadrant of courtyard.
+",2018
+2876,2885,Covers,Compact orangish-yellow linear deposit running W-E in North-Central area of courtyard,2018
+2876,2888,Covers,Friable gray silty deposit in center of courtyard,2018
+2877,2879,Covers,Friable light brownish gray deposit with ceramic and stone inclusions at NW limit of courtyard,2018
+2878,2892,Covers,Compact brown deposit with orange inclusions along western edge of courtyard,2018
+2879,2883,Covers,"Loose brownish-gray circular deposit in NW corner of courtyard, fill of 2884",2018
+2871,2880,Covers,"Friable light brown deposit in the SE corner of the courtyard, S of 2436",2018
+2880,2887,Covers,"Light brown deposit in SE corner of courtyard, W of 2436",2018
+2885,2891,Covers,Friable blackish-brown granular deposit in center of courtyard,2018
+2886,2890,Covers,"Grayish brown compact deposit in SW courtyard, N of 2454",2018
+2886,2889,Covers,"Grey compact deposit in the SW corner of courtyard, S of 2454",2018
+2892,2893,Covers,"Friable brown gray deposit with orange and ashy inclusions, along central western limit of courtyard.",2018
+2876,2894,Covers,Brown friable deposit located in the eastern end of courtyard.,2018
+2877,2897,Covers,Friable gray deposit N. of 2588,2018
+2890,2898,Covers,"Friable brownish-gray deposit in the southwest quadrant of the courtyard, to the northeast of 2454",2018
+2899,2903,Covers,"Oval loose brown deposit along E limit of 2851, fills 2904",2018
+2901,2902,Fills,"Irregular cut filled with 2901, N of wall 2851",2018
+2903,2904,Fills,"Oval cut along E limit of 2851, filled by 2903",2018
+2899,2907,Covers,"Friable gray deposit at E limit of 2851, fills 2900. ",2018
+2907,2900,Fills,"Semicircular cut along edge of 2851, filled by 2899.",2018
+2908,2871,Equals,Compact light brown deposit with frequent orange inclusions in southeast corner of courtyard.,2018
+2914,2915,Covers,"Deposit of soil with complete vessels, amber, beads, and bronze in cut 2917, T56",2018
+2905,2918,Covers,"Loose brown deposit, N. of cut 2917, fills 2922, T.57",2018
+2905,2914,Covers,"Loose brown deposit, second layer of fill of cut 2917, T.56",2018
+2915,2916,Covers,"Cohesive patch of dark brown soil (skeleton) underneath 2915, in cut 2917, T.56",2018
+2916,2917,Fills,"Rectangular cut on E. limit of courtyard, SE. of 2851, T.56",2018
+2917,2909,Cuts,"Rectangular cut along SE edge of Feature 2851, T.57 and T.56",2018
+2918,2919,Covers,"Deposit of soils and vessels in cut 2922, T.57",2018
+2919,2920,Covers,"Bronze objects and their surrounding fill in cut 2922, T. 57",2018
+2920,2921,Covers,"Skeleton in cut 2922, T. 57",2018
+2921,2922,Fills,"Large rectangular cut, SE of feature 2851,  T. 57",2018
+2922,2909,Cuts,"Rectangular cut along SE edge of Feature 2851, T.57 and T.56",2018
+2896,2905,Cuts,"Friable brown deposit along E limit of courtyard, SE of feature 2851, fill of 2909, T.56 and T.57",2018
+2911,2912,Fills,"Circular cut in SE corner of courtyard, filled by 2911",2018
+2928,2929,Fills,"Circular cut in centre of courtyard, W. of 2493, filled by 2928",2018
+2929,2931,Cuts,Gray friable deposit in the central courtyard.,2018
+2932,2933,Fills,"Circular cut at the NW edge at feature 2851 in E quadrant of courtyard, filled by 2932.",2018
+2936,2851,Abuts,"Rocky exposed layer of possible curved linear feature, in southeast quadrant of courtyard.
+",2018
+2851,2935,Covers,Linear deposit of dark brown soil with orange inclusions along E. limit of courtyard,2018
+2906,2934,Covers,Compact gray deposit with frequent ceramic and stone inclusions in SW quadrant of courtyard,2018
+2851,2934,Covers,Compact gray deposit with frequent ceramic and stone inclusions in SW quadrant of courtyard,2018
+2933,2935,Cuts,Linear deposit of dark brown soil with orange inclusions along E. limit of courtyard,2018
+2851,2932,Covers,Loose brown circular deposit with small rocky inclusions at NW edge of feature 2851 in E quadrant of courtyard; fills 2933.,2018
+2861,2931,Covers,Gray friable deposit in the central courtyard.,2018
+2476,2930,Covers,Baulk extension at SE corner of courtyard.,2018
+2861,2928,Covers,"Loose brownish-gray circular deposit in centre of courtyard, W of 2493, fills 2929",2018
+2926,2927,Fills,"Circular cut in SW corner of courtyard, N. of 2454, filled by 2926. ",2018
+2898,2926,Covers,"Light brown friable circular deposit in SW corner of courtyard, N. of  2454, fills 2927
+",2018
+2912,2923,Cuts,Compact brown deposit S. of 2436 in SE corner of courtyard,2018
+2910,2923,Covers,Compact brown deposit S. of 2436 in SE corner of courtyard,2018
+2762,2913,Covers,Baulk extension at E limit of courtyard,2018
+2913,2905,Covers,"Friable brown deposit along E limit of courtyard, SE of feature 2851, fill of 2909, T.56 and T.57",2018
+2910,2911,Covers,"Circular dark brown deposit with travertine inclusions in SE corner of courtyard, fill of 2912",2018
+2880,2910,Covers,Friable light brown deposit in SE corner of courtyard S. of 2436,2018
+2887,2908,Covers,Compact brown deposit with orange inclusions in the southeast quadrant of the courtyard ,2018
+2889,2906,Covers,Friable grayish brown deposit in the southwest quadrant of the courtyard ,2018
+2904,2907,Cuts,"Friable gray deposit at E limit of 2851, fills 2900. ",2018
+2902,2936,Cuts,Compact dark brown deposit in the SE quadrant of courtyard,2018
+2887,2901,Covers,"Irregular friable brown fill of cut 2902, N. of wall 2306.",2018
+2872,2899,Covers,"Friable light brown deposit along E edge of 2851, fills cut 2900.",2018
+2935,2937,Covers,Brown friable deposit in central E. quadrant of courtyard ,2018
+2937,2939,Covers,Compact brownish-gray deposit in SE area of courtyard,2018
+2938,2940,Fills,Shallow depression filled by 2938 in SW corner of courtyard,2018
+2942,2943,Fills,"Circular cut in SW corner of courtyard, filled by 2942",2018
+2940,2944,Cuts,Hyper-compact gray deposit with ceramic inclusions in S. half of courtyard ,2018
+2943,2944,Cuts,Hyper-compact gray deposit with ceramic inclusions in S. half of courtyard ,2018
+2939,2944,Covers,Hyper-compact gray deposit with ceramic inclusions in S. half of courtyard ,2018
+2934,2944,Covers,Hyper-compact gray deposit with ceramic inclusions in S. half of courtyard ,2018
+2931,2944,Covers,Hyper-compact gray deposit with ceramic inclusions in S. half of courtyard ,2018
+2931,2941,Covers,Friable light gray deposit with stone inclusions in center of courtyard.,2018
+2934,2938,Covers,"Friable brown deposit in SE corner of courtyard, fill of depression 2940",2018
+2944,2947,Covers,Grey-brown friable surface with rocky inclusions.,2018
+2899,2946,Covers,Compact red deposit surrounding cut 2904,2018
+2944,2945,Covers,Loose gray deposit in SW quadrant of courtyard,2018
+2934,2942,Covers,"Loose circular brown deposit in SW corner of courtyard, fill of 2493",2018
+2924,2925,Fills,"Semi- circular, linear cut in N. half of courtyard, filled by 2924",2018
+2894,2924,Covers,"Fill of semi- circular, linear cut 2425 in N. half of courtyard",2018
+2891,2924,Covers,"Fill of semi- circular, linear cut 2425 in N. half of courtyard",2018
+2888,2924,Covers,"Fill of semi- circular, linear cut 2425 in N. half of courtyard",2018
+2885,2924,Covers,"Fill of semi- circular, linear cut 2425 in N. half of courtyard",2018
+2879,2924,Covers,"Fill of semi- circular, linear cut 2425 in N. half of courtyard",2018
+2876,2924,Covers,"Fill of semi- circular, linear cut 2425 in N. half of courtyard",2018
+2870,2924,Covers,"Fill of semi- circular, linear cut 2425 in N. half of courtyard",2018
+2869,2924,Covers,"Fill of semi- circular, linear cut 2425 in N. half of courtyard",2018
+2846,2924,Covers,"Fill of semi- circular, linear cut 2425 in N. half of courtyard",2018
+2840,2924,Covers,"Fill of semi- circular, linear cut 2425 in N. half of courtyard",2018
+2828,2924,Covers,"Fill of semi- circular, linear cut 2425 in N. half of courtyard",2018
+2903,2946,Abuts,Compact red deposit surrounding cut 2904,2018
