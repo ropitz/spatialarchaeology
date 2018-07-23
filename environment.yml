@@ -27,4 +27,3 @@ dependencies:
   - opencv
   - pip:
     - warnings
-    - pygeoprocessing --no-deps --no-binary
