@@ -24,6 +24,7 @@ dependencies:
   - scikit-learn
   - gdal
   - rasterio
-  - pygeoprocessing
   - cv2
   - warnings
+  - pip:
+    - pygeoprocessing
