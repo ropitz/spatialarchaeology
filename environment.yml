@@ -26,6 +26,6 @@ dependencies:
   - rasterio
   - opencv
   - pip:
-    - pygeoprocessing
+    - pygeoprocessing --no-deps --no-binary :all:
     - warnings
 
