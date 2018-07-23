@@ -25,5 +25,3 @@ dependencies:
   - gdal
   - rasterio
   - opencv
-  - pip:
-    - warnings
