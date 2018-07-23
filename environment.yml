@@ -25,7 +25,7 @@ dependencies:
   - gdal
   - rasterio
   - opencv
-  - warnings
   - pip:
     - pygeoprocessing
+    - warnings
 
