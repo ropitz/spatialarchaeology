@@ -24,4 +24,4 @@ dependencies:
   - scikit-learn
   - gdal
   - rasterio
-  - opencv
+  - opencv-python
