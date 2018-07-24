@@ -22,7 +22,9 @@ dependencies:
   - folium
   - seaborn
   - scikit-learn
+  - sciit-image
   - gdal
   - rasterio
   - pip:
     - opencv-python
+    - pygeoprocessing
