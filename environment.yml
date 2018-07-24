@@ -22,7 +22,7 @@ dependencies:
   - folium
   - seaborn
   - scikit-learn
-  - sciit-image
+  - scikit-image
   - gdal
   - rasterio
   - pip:
