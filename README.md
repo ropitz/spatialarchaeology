@@ -16,6 +16,6 @@ Here's how to get started:
 
 # Theory and Practice Modules
 *  'raster.ipynb' explores cropmarks in hyperspectral images and is intended for Theory and Practice.
-*  'canmore.ipynb' explores Canmore's map of registered monuments and is intended for Theory and Practice
-*  'gabii_sf.ipynb' exploresthe Gabii Project's textile tools data and is intended for Theory and Practice
+*  'canmore.ipynb' explores Canmore's map of registered monuments and is intended for Theory and Practice.
+*  'gabii_sf.ipynb' explores the Gabii Project's textile tools data and is intended for Theory and Practice.
 
