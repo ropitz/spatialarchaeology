@@ -4,9 +4,12 @@ channels:
 dependencies:
   - python
   - numpy
+  - psutil
+  - toolz
   - matplotlib
   - pandas
-  - shapely
+  - partd
+  - cython
   - fiona
   - pyproj
   - pysal
@@ -14,9 +17,10 @@ dependencies:
   - requests
   - folium
   - seaborn
+  - scikit-learn
+  - scikit-image
   - gdal
   - rasterio
-  - cython
   - pip:
     - opencv-python
     - pygeoprocessing
