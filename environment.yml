@@ -14,8 +14,6 @@ dependencies:
   - requests
   - folium
   - seaborn
-  - scikit-learn
-  - scikit-image
   - gdal
   - rasterio
   - pip:
