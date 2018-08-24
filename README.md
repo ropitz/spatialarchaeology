@@ -20,4 +20,4 @@ Here's how to get started:
 *  'gabii_sf.ipynb' explores the Gabii Project's textile tools data and is intended for Theory and Practice.
 
 # Reflective Archaeological Practice Modules
-*  'gabii_sf_areaB.ipynb' explores the Gabii Project's published special finds and stratigraphic data and is intended for Theory and Practice.
+*  'gabii_sf_areaB.ipynb' explores the Gabii Project's published special finds and stratigraphic data and is intended for Reflective Archaeological Practice.
