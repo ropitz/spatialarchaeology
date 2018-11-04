@@ -21,6 +21,5 @@ Here's how to get started:
 
 # Reflective Archaeological Practice Modules
 *  'gabii_sf_areaB.ipynb' explores the Gabii Project's published special finds and stratigraphic data and is intended for Reflective Archaeological Practice.
-'ADSDataExercse.ipynb' explores data published with the ADS  and is intended for Reflective Archaeological Practice.
-
-[![O-Date Scraping]](https://github.com/ropitz/scraping) is a fork of the pdf scaping exercise made by Shawn Graham as part of the O-DATE Project [![O-Date]](https://o-date.github.io/)
+*  'ADSDataExercse.ipynb' explores data published with the ADS  and is intended for Reflective Archaeological Practice.
+*  [O-Date Scraping](https://github.com/ropitz/scraping) is a fork of the pdf scaping exercise made by Shawn Graham as part of the O-DATE Project [O-Date](https://o-date.github.io/). It has it's own binder.
